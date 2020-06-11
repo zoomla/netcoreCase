@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "09地铁报道/1.0.0": {
+        "runtime": {
+          "09地铁报道.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "09地铁报道/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

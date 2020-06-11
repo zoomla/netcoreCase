@@ -1,0 +1,13 @@
+D:\visual-studio\study0611\07百鸡\obj\Debug\netcoreapp3.1\07百鸡.csprojAssemblyReference.cache
+D:\visual-studio\study0611\07百鸡\obj\Debug\netcoreapp3.1\07百鸡.csproj.CoreCompileInputs.cache
+D:\visual-studio\study0611\07百鸡\obj\Debug\netcoreapp3.1\07百鸡.AssemblyInfoInputs.cache
+D:\visual-studio\study0611\07百鸡\obj\Debug\netcoreapp3.1\07百鸡.AssemblyInfo.cs
+D:\visual-studio\study0611\07百鸡\bin\Debug\netcoreapp3.1\07百鸡.exe
+D:\visual-studio\study0611\07百鸡\bin\Debug\netcoreapp3.1\07百鸡.deps.json
+D:\visual-studio\study0611\07百鸡\bin\Debug\netcoreapp3.1\07百鸡.runtimeconfig.json
+D:\visual-studio\study0611\07百鸡\bin\Debug\netcoreapp3.1\07百鸡.runtimeconfig.dev.json
+D:\visual-studio\study0611\07百鸡\bin\Debug\netcoreapp3.1\07百鸡.dll
+D:\visual-studio\study0611\07百鸡\bin\Debug\netcoreapp3.1\07百鸡.pdb
+D:\visual-studio\study0611\07百鸡\obj\Debug\netcoreapp3.1\07百鸡.dll
+D:\visual-studio\study0611\07百鸡\obj\Debug\netcoreapp3.1\07百鸡.pdb
+D:\visual-studio\study0611\07百鸡\obj\Debug\netcoreapp3.1\07百鸡.genruntimeconfig.cache

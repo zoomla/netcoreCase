@@ -1,0 +1,12 @@
+D:\visual-studio\study0611\09地铁报道\obj\Debug\netcoreapp3.1\09地铁报道.csproj.CoreCompileInputs.cache
+D:\visual-studio\study0611\09地铁报道\obj\Debug\netcoreapp3.1\09地铁报道.AssemblyInfoInputs.cache
+D:\visual-studio\study0611\09地铁报道\obj\Debug\netcoreapp3.1\09地铁报道.AssemblyInfo.cs
+D:\visual-studio\study0611\09地铁报道\bin\Debug\netcoreapp3.1\09地铁报道.exe
+D:\visual-studio\study0611\09地铁报道\bin\Debug\netcoreapp3.1\09地铁报道.deps.json
+D:\visual-studio\study0611\09地铁报道\bin\Debug\netcoreapp3.1\09地铁报道.runtimeconfig.json
+D:\visual-studio\study0611\09地铁报道\bin\Debug\netcoreapp3.1\09地铁报道.runtimeconfig.dev.json
+D:\visual-studio\study0611\09地铁报道\bin\Debug\netcoreapp3.1\09地铁报道.dll
+D:\visual-studio\study0611\09地铁报道\bin\Debug\netcoreapp3.1\09地铁报道.pdb
+D:\visual-studio\study0611\09地铁报道\obj\Debug\netcoreapp3.1\09地铁报道.dll
+D:\visual-studio\study0611\09地铁报道\obj\Debug\netcoreapp3.1\09地铁报道.pdb
+D:\visual-studio\study0611\09地铁报道\obj\Debug\netcoreapp3.1\09地铁报道.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\visual-studio\study0611\04for循环\bin\Debug\netcoreapp3.1\04for循环.exe
+D:\visual-studio\study0611\04for循环\bin\Debug\netcoreapp3.1\04for循环.deps.json
+D:\visual-studio\study0611\04for循环\bin\Debug\netcoreapp3.1\04for循环.runtimeconfig.json
+D:\visual-studio\study0611\04for循环\bin\Debug\netcoreapp3.1\04for循环.runtimeconfig.dev.json
+D:\visual-studio\study0611\04for循环\bin\Debug\netcoreapp3.1\04for循环.dll
+D:\visual-studio\study0611\04for循环\bin\Debug\netcoreapp3.1\04for循环.pdb
+D:\visual-studio\study0611\04for循环\obj\Debug\netcoreapp3.1\04for循环.csproj.CoreCompileInputs.cache
+D:\visual-studio\study0611\04for循环\obj\Debug\netcoreapp3.1\04for循环.AssemblyInfoInputs.cache
+D:\visual-studio\study0611\04for循环\obj\Debug\netcoreapp3.1\04for循环.AssemblyInfo.cs
+D:\visual-studio\study0611\04for循环\obj\Debug\netcoreapp3.1\04for循环.dll
+D:\visual-studio\study0611\04for循环\obj\Debug\netcoreapp3.1\04for循环.pdb
+D:\visual-studio\study0611\04for循环\obj\Debug\netcoreapp3.1\04for循环.genruntimeconfig.cache

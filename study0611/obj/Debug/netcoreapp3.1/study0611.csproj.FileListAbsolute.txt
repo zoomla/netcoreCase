@@ -1,0 +1,13 @@
+D:\visual-studio\study0611\study0611\bin\Debug\netcoreapp3.1\study0611.exe
+D:\visual-studio\study0611\study0611\bin\Debug\netcoreapp3.1\study0611.deps.json
+D:\visual-studio\study0611\study0611\bin\Debug\netcoreapp3.1\study0611.runtimeconfig.json
+D:\visual-studio\study0611\study0611\bin\Debug\netcoreapp3.1\study0611.runtimeconfig.dev.json
+D:\visual-studio\study0611\study0611\bin\Debug\netcoreapp3.1\study0611.dll
+D:\visual-studio\study0611\study0611\bin\Debug\netcoreapp3.1\study0611.pdb
+D:\visual-studio\study0611\study0611\obj\Debug\netcoreapp3.1\study0611.csprojAssemblyReference.cache
+D:\visual-studio\study0611\study0611\obj\Debug\netcoreapp3.1\study0611.csproj.CoreCompileInputs.cache
+D:\visual-studio\study0611\study0611\obj\Debug\netcoreapp3.1\study0611.AssemblyInfoInputs.cache
+D:\visual-studio\study0611\study0611\obj\Debug\netcoreapp3.1\study0611.AssemblyInfo.cs
+D:\visual-studio\study0611\study0611\obj\Debug\netcoreapp3.1\study0611.dll
+D:\visual-studio\study0611\study0611\obj\Debug\netcoreapp3.1\study0611.pdb
+D:\visual-studio\study0611\study0611\obj\Debug\netcoreapp3.1\study0611.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\visual-studio\study0611\06星状项目\obj\Debug\netcoreapp3.1\06星状项目.csproj.CoreCompileInputs.cache
+D:\visual-studio\study0611\06星状项目\obj\Debug\netcoreapp3.1\06星状项目.AssemblyInfoInputs.cache
+D:\visual-studio\study0611\06星状项目\obj\Debug\netcoreapp3.1\06星状项目.AssemblyInfo.cs
+D:\visual-studio\study0611\06星状项目\bin\Debug\netcoreapp3.1\06星状项目.exe
+D:\visual-studio\study0611\06星状项目\bin\Debug\netcoreapp3.1\06星状项目.deps.json
+D:\visual-studio\study0611\06星状项目\bin\Debug\netcoreapp3.1\06星状项目.runtimeconfig.json
+D:\visual-studio\study0611\06星状项目\bin\Debug\netcoreapp3.1\06星状项目.runtimeconfig.dev.json
+D:\visual-studio\study0611\06星状项目\bin\Debug\netcoreapp3.1\06星状项目.dll
+D:\visual-studio\study0611\06星状项目\bin\Debug\netcoreapp3.1\06星状项目.pdb
+D:\visual-studio\study0611\06星状项目\obj\Debug\netcoreapp3.1\06星状项目.dll
+D:\visual-studio\study0611\06星状项目\obj\Debug\netcoreapp3.1\06星状项目.pdb
+D:\visual-studio\study0611\06星状项目\obj\Debug\netcoreapp3.1\06星状项目.genruntimeconfig.cache

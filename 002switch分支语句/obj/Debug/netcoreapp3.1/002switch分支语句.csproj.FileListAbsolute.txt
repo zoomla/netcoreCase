@@ -1,0 +1,12 @@
+D:\visual-studio\study0611\002switch分支语句\bin\Debug\netcoreapp3.1\002switch分支语句.exe
+D:\visual-studio\study0611\002switch分支语句\bin\Debug\netcoreapp3.1\002switch分支语句.deps.json
+D:\visual-studio\study0611\002switch分支语句\bin\Debug\netcoreapp3.1\002switch分支语句.runtimeconfig.json
+D:\visual-studio\study0611\002switch分支语句\bin\Debug\netcoreapp3.1\002switch分支语句.runtimeconfig.dev.json
+D:\visual-studio\study0611\002switch分支语句\bin\Debug\netcoreapp3.1\002switch分支语句.dll
+D:\visual-studio\study0611\002switch分支语句\bin\Debug\netcoreapp3.1\002switch分支语句.pdb
+D:\visual-studio\study0611\002switch分支语句\obj\Debug\netcoreapp3.1\002switch分支语句.csproj.CoreCompileInputs.cache
+D:\visual-studio\study0611\002switch分支语句\obj\Debug\netcoreapp3.1\002switch分支语句.AssemblyInfoInputs.cache
+D:\visual-studio\study0611\002switch分支语句\obj\Debug\netcoreapp3.1\002switch分支语句.AssemblyInfo.cs
+D:\visual-studio\study0611\002switch分支语句\obj\Debug\netcoreapp3.1\002switch分支语句.dll
+D:\visual-studio\study0611\002switch分支语句\obj\Debug\netcoreapp3.1\002switch分支语句.pdb
+D:\visual-studio\study0611\002switch分支语句\obj\Debug\netcoreapp3.1\002switch分支语句.genruntimeconfig.cache
