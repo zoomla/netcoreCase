@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\visual-studio\\study0611\\06星状项目\\06星状项目.csproj",
+      "projectUniqueName": "D:\\cSharp\\netcoreCase\\06星状项目\\06星状项目.csproj",
       "projectName": "06星状项目",
-      "projectPath": "D:\\visual-studio\\study0611\\06星状项目\\06星状项目.csproj",
+      "projectPath": "D:\\cSharp\\netcoreCase\\06星状项目\\06星状项目.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\visual-studio\\study0611\\06星状项目\\obj\\",
+      "outputPath": "D:\\cSharp\\netcoreCase\\06星状项目\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

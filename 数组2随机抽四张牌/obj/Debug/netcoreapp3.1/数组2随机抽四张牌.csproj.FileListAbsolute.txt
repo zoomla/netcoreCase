@@ -1,0 +1,13 @@
+D:\cSharp\netcoreCase\数组2随机抽四张牌\obj\Debug\netcoreapp3.1\数组2随机抽四张牌.csprojAssemblyReference.cache
+D:\cSharp\netcoreCase\数组2随机抽四张牌\obj\Debug\netcoreapp3.1\数组2随机抽四张牌.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\数组2随机抽四张牌\obj\Debug\netcoreapp3.1\数组2随机抽四张牌.AssemblyInfo.cs
+D:\cSharp\netcoreCase\数组2随机抽四张牌\obj\Debug\netcoreapp3.1\数组2随机抽四张牌.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\数组2随机抽四张牌\bin\Debug\netcoreapp3.1\数组2随机抽四张牌.exe
+D:\cSharp\netcoreCase\数组2随机抽四张牌\bin\Debug\netcoreapp3.1\数组2随机抽四张牌.deps.json
+D:\cSharp\netcoreCase\数组2随机抽四张牌\bin\Debug\netcoreapp3.1\数组2随机抽四张牌.runtimeconfig.json
+D:\cSharp\netcoreCase\数组2随机抽四张牌\bin\Debug\netcoreapp3.1\数组2随机抽四张牌.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\数组2随机抽四张牌\bin\Debug\netcoreapp3.1\数组2随机抽四张牌.dll
+D:\cSharp\netcoreCase\数组2随机抽四张牌\bin\Debug\netcoreapp3.1\数组2随机抽四张牌.pdb
+D:\cSharp\netcoreCase\数组2随机抽四张牌\obj\Debug\netcoreapp3.1\数组2随机抽四张牌.dll
+D:\cSharp\netcoreCase\数组2随机抽四张牌\obj\Debug\netcoreapp3.1\数组2随机抽四张牌.pdb
+D:\cSharp\netcoreCase\数组2随机抽四张牌\obj\Debug\netcoreapp3.1\数组2随机抽四张牌.genruntimeconfig.cache

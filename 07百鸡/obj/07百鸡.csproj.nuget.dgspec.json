@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\visual-studio\\study0611\\07百鸡\\07百鸡.csproj": {}
+    "D:\\cSharp\\netcoreCase\\07百鸡\\07百鸡.csproj": {}
   },
   "projects": {
-    "D:\\visual-studio\\study0611\\07百鸡\\07百鸡.csproj": {
+    "D:\\cSharp\\netcoreCase\\07百鸡\\07百鸡.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\visual-studio\\study0611\\07百鸡\\07百鸡.csproj",
+        "projectUniqueName": "D:\\cSharp\\netcoreCase\\07百鸡\\07百鸡.csproj",
         "projectName": "07百鸡",
-        "projectPath": "D:\\visual-studio\\study0611\\07百鸡\\07百鸡.csproj",
+        "projectPath": "D:\\cSharp\\netcoreCase\\07百鸡\\07百鸡.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\visual-studio\\study0611\\07百鸡\\obj\\",
+        "outputPath": "D:\\cSharp\\netcoreCase\\07百鸡\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

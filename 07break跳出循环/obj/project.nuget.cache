@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GM0sxyqnt+UOlNeEf1qGoHLWgZteExs093GecRF4ZF5CzMIEbCdIcvKzJzozk8qjIr+U3XqN1EPFoP7SgfE71A==",
+  "dgSpecHash": "q1VE/ggASBeoyrxkJRTcVfkat6SlHX9omW4H9OefLGKZiPzYNorxps58+Z1HjCozIJMakVJ6VdWrxi5dchymsQ==",
   "success": true,
-  "projectFilePath": "D:\\visual-studio\\study0611\\07break跳出循环\\08break跳出循环.csproj",
+  "projectFilePath": "D:\\cSharp\\netcoreCase\\07break跳出循环\\08break跳出循环.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

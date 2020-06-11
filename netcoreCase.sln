@@ -13,13 +13,21 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04for循环", "04for循环\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05九九乘法表", "05九九乘法表\05九九乘法表.csproj", "{BF55DB10-20BC-4569-8F07-B1BC24B34A9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06星状项目", "06星状项目\06星状项目.csproj", "{D97345BA-7A92-4532-80F0-3AE70B4157B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06星状项目", "06星状项目\06星状项目.csproj", "{D97345BA-7A92-4532-80F0-3AE70B4157B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07百鸡", "07百鸡\07百鸡.csproj", "{CD14DDCA-B779-47C2-A167-E3FAE78A286E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07百鸡", "07百鸡\07百鸡.csproj", "{CD14DDCA-B779-47C2-A167-E3FAE78A286E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08break跳出循环", "07break跳出循环\08break跳出循环.csproj", "{988C4F90-A40C-4873-8C88-8AC074D6F74D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08break跳出循环", "07break跳出循环\08break跳出循环.csproj", "{988C4F90-A40C-4873-8C88-8AC074D6F74D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09地铁报站", "09地铁报道\09地铁报站.csproj", "{9D0F7C64-8EB3-4D43-B3BE-CAA5826BC8F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09地铁报站", "09地铁报道\09地铁报站.csproj", "{9D0F7C64-8EB3-4D43-B3BE-CAA5826BC8F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "数组1输出一年每月天数", "数组1输出一年每月天数\数组1输出一年每月天数.csproj", "{C52237B5-3213-4727-B3EE-C7538E036966}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10continue影院售票", "10continue影院售票\10continue影院售票.csproj", "{2635C34C-E4F1-4CBB-97F8-DA6D0CC9EBCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11continue办公卡位计算", "11continue办公卡位计算\11continue办公卡位计算.csproj", "{B3AE6911-C129-429C-8432-9D04D35DD468}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数组2随机抽四张牌", "数组2随机抽四张牌\数组2随机抽四张牌.csproj", "{53352E3E-1659-47CD-B824-CCB8593017A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +71,22 @@ Global
 		{9D0F7C64-8EB3-4D43-B3BE-CAA5826BC8F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D0F7C64-8EB3-4D43-B3BE-CAA5826BC8F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D0F7C64-8EB3-4D43-B3BE-CAA5826BC8F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C52237B5-3213-4727-B3EE-C7538E036966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C52237B5-3213-4727-B3EE-C7538E036966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C52237B5-3213-4727-B3EE-C7538E036966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C52237B5-3213-4727-B3EE-C7538E036966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2635C34C-E4F1-4CBB-97F8-DA6D0CC9EBCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2635C34C-E4F1-4CBB-97F8-DA6D0CC9EBCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2635C34C-E4F1-4CBB-97F8-DA6D0CC9EBCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2635C34C-E4F1-4CBB-97F8-DA6D0CC9EBCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3AE6911-C129-429C-8432-9D04D35DD468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3AE6911-C129-429C-8432-9D04D35DD468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3AE6911-C129-429C-8432-9D04D35DD468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3AE6911-C129-429C-8432-9D04D35DD468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53352E3E-1659-47CD-B824-CCB8593017A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53352E3E-1659-47CD-B824-CCB8593017A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53352E3E-1659-47CD-B824-CCB8593017A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53352E3E-1659-47CD-B824-CCB8593017A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

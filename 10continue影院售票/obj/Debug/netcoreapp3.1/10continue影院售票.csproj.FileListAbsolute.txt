@@ -1,0 +1,12 @@
+D:\cSharp\netcoreCase\10continue影院售票\obj\Debug\netcoreapp3.1\10continue影院售票.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\10continue影院售票\obj\Debug\netcoreapp3.1\10continue影院售票.AssemblyInfo.cs
+D:\cSharp\netcoreCase\10continue影院售票\obj\Debug\netcoreapp3.1\10continue影院售票.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\10continue影院售票\bin\Debug\netcoreapp3.1\10continue影院售票.exe
+D:\cSharp\netcoreCase\10continue影院售票\bin\Debug\netcoreapp3.1\10continue影院售票.deps.json
+D:\cSharp\netcoreCase\10continue影院售票\bin\Debug\netcoreapp3.1\10continue影院售票.runtimeconfig.json
+D:\cSharp\netcoreCase\10continue影院售票\bin\Debug\netcoreapp3.1\10continue影院售票.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\10continue影院售票\bin\Debug\netcoreapp3.1\10continue影院售票.dll
+D:\cSharp\netcoreCase\10continue影院售票\bin\Debug\netcoreapp3.1\10continue影院售票.pdb
+D:\cSharp\netcoreCase\10continue影院售票\obj\Debug\netcoreapp3.1\10continue影院售票.dll
+D:\cSharp\netcoreCase\10continue影院售票\obj\Debug\netcoreapp3.1\10continue影院售票.pdb
+D:\cSharp\netcoreCase\10continue影院售票\obj\Debug\netcoreapp3.1\10continue影院售票.genruntimeconfig.cache

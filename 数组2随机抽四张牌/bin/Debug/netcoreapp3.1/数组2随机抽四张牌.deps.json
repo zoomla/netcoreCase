@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "数组2随机抽四张牌/1.0.0": {
+        "runtime": {
+          "数组2随机抽四张牌.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "数组2随机抽四张牌/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

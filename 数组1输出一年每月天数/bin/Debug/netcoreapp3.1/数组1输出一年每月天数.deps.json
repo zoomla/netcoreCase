@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "数组1输出一年每月天数/1.0.0": {
+        "runtime": {
+          "数组1输出一年每月天数.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "数组1输出一年每月天数/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
