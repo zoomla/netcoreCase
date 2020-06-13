@@ -1,0 +1,12 @@
+D:\cSharp\netcoreCase\字符串string2查找r在字符中出现的位置\bin\Debug\netcoreapp3.1\字符串string2查找r在字符中出现的位置.exe
+D:\cSharp\netcoreCase\字符串string2查找r在字符中出现的位置\bin\Debug\netcoreapp3.1\字符串string2查找r在字符中出现的位置.deps.json
+D:\cSharp\netcoreCase\字符串string2查找r在字符中出现的位置\bin\Debug\netcoreapp3.1\字符串string2查找r在字符中出现的位置.runtimeconfig.json
+D:\cSharp\netcoreCase\字符串string2查找r在字符中出现的位置\bin\Debug\netcoreapp3.1\字符串string2查找r在字符中出现的位置.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\字符串string2查找r在字符中出现的位置\bin\Debug\netcoreapp3.1\字符串string2查找r在字符中出现的位置.dll
+D:\cSharp\netcoreCase\字符串string2查找r在字符中出现的位置\bin\Debug\netcoreapp3.1\字符串string2查找r在字符中出现的位置.pdb
+D:\cSharp\netcoreCase\字符串string2查找r在字符中出现的位置\obj\Debug\netcoreapp3.1\字符串string2查找r在字符中出现的位置.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\字符串string2查找r在字符中出现的位置\obj\Debug\netcoreapp3.1\字符串string2查找r在字符中出现的位置.AssemblyInfo.cs
+D:\cSharp\netcoreCase\字符串string2查找r在字符中出现的位置\obj\Debug\netcoreapp3.1\字符串string2查找r在字符中出现的位置.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\字符串string2查找r在字符中出现的位置\obj\Debug\netcoreapp3.1\字符串string2查找r在字符中出现的位置.dll
+D:\cSharp\netcoreCase\字符串string2查找r在字符中出现的位置\obj\Debug\netcoreapp3.1\字符串string2查找r在字符中出现的位置.pdb
+D:\cSharp\netcoreCase\字符串string2查找r在字符中出现的位置\obj\Debug\netcoreapp3.1\字符串string2查找r在字符中出现的位置.genruntimeconfig.cache

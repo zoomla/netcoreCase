@@ -1,0 +1,13 @@
+D:\cSharp\netcoreCase\字符串string1获取指定字符位置\bin\Debug\netcoreapp3.1\字符串string1获取指定字符位置.exe
+D:\cSharp\netcoreCase\字符串string1获取指定字符位置\bin\Debug\netcoreapp3.1\字符串string1获取指定字符位置.deps.json
+D:\cSharp\netcoreCase\字符串string1获取指定字符位置\bin\Debug\netcoreapp3.1\字符串string1获取指定字符位置.runtimeconfig.json
+D:\cSharp\netcoreCase\字符串string1获取指定字符位置\bin\Debug\netcoreapp3.1\字符串string1获取指定字符位置.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\字符串string1获取指定字符位置\bin\Debug\netcoreapp3.1\字符串string1获取指定字符位置.dll
+D:\cSharp\netcoreCase\字符串string1获取指定字符位置\bin\Debug\netcoreapp3.1\字符串string1获取指定字符位置.pdb
+D:\cSharp\netcoreCase\字符串string1获取指定字符位置\obj\Debug\netcoreapp3.1\字符串string1获取指定字符位置.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\字符串string1获取指定字符位置\obj\Debug\netcoreapp3.1\字符串string1获取指定字符位置.AssemblyInfo.cs
+D:\cSharp\netcoreCase\字符串string1获取指定字符位置\obj\Debug\netcoreapp3.1\字符串string1获取指定字符位置.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\字符串string1获取指定字符位置\obj\Debug\netcoreapp3.1\字符串string1获取指定字符位置.dll
+D:\cSharp\netcoreCase\字符串string1获取指定字符位置\obj\Debug\netcoreapp3.1\字符串string1获取指定字符位置.pdb
+D:\cSharp\netcoreCase\字符串string1获取指定字符位置\obj\Debug\netcoreapp3.1\字符串string1获取指定字符位置.genruntimeconfig.cache
+D:\cSharp\netcoreCase\字符串string1获取指定字符位置\obj\Debug\netcoreapp3.1\字符串string1获取指定字符位置.csprojAssemblyReference.cache

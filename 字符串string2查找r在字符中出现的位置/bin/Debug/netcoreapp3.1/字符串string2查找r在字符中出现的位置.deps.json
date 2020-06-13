@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "字符串string2查找r在字符中出现的位置/1.0.0": {
+        "runtime": {
+          "字符串string2查找r在字符中出现的位置.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "字符串string2查找r在字符中出现的位置/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

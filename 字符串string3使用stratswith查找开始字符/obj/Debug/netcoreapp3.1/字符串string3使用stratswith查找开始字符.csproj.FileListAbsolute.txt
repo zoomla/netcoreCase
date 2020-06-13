@@ -1,0 +1,12 @@
+D:\cSharp\netcoreCase\字符串string3使用stratswith查找开始字符\bin\Debug\netcoreapp3.1\字符串string3使用stratswith查找开始字符.exe
+D:\cSharp\netcoreCase\字符串string3使用stratswith查找开始字符\bin\Debug\netcoreapp3.1\字符串string3使用stratswith查找开始字符.deps.json
+D:\cSharp\netcoreCase\字符串string3使用stratswith查找开始字符\bin\Debug\netcoreapp3.1\字符串string3使用stratswith查找开始字符.runtimeconfig.json
+D:\cSharp\netcoreCase\字符串string3使用stratswith查找开始字符\bin\Debug\netcoreapp3.1\字符串string3使用stratswith查找开始字符.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\字符串string3使用stratswith查找开始字符\bin\Debug\netcoreapp3.1\字符串string3使用stratswith查找开始字符.dll
+D:\cSharp\netcoreCase\字符串string3使用stratswith查找开始字符\bin\Debug\netcoreapp3.1\字符串string3使用stratswith查找开始字符.pdb
+D:\cSharp\netcoreCase\字符串string3使用stratswith查找开始字符\obj\Debug\netcoreapp3.1\字符串string3使用stratswith查找开始字符.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\字符串string3使用stratswith查找开始字符\obj\Debug\netcoreapp3.1\字符串string3使用stratswith查找开始字符.AssemblyInfo.cs
+D:\cSharp\netcoreCase\字符串string3使用stratswith查找开始字符\obj\Debug\netcoreapp3.1\字符串string3使用stratswith查找开始字符.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\字符串string3使用stratswith查找开始字符\obj\Debug\netcoreapp3.1\字符串string3使用stratswith查找开始字符.dll
+D:\cSharp\netcoreCase\字符串string3使用stratswith查找开始字符\obj\Debug\netcoreapp3.1\字符串string3使用stratswith查找开始字符.pdb
+D:\cSharp\netcoreCase\字符串string3使用stratswith查找开始字符\obj\Debug\netcoreapp3.1\字符串string3使用stratswith查找开始字符.genruntimeconfig.cache

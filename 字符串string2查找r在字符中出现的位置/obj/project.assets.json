@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\cSharp\\netcoreCase\\002switch分支语句\\002switch分支语句.csproj",
-      "projectName": "002switch分支语句",
-      "projectPath": "D:\\cSharp\\netcoreCase\\002switch分支语句\\002switch分支语句.csproj",
+      "projectUniqueName": "D:\\cSharp\\netcoreCase\\字符串string2查找r在字符中出现的位置\\字符串string2查找r在字符中出现的位置.csproj",
+      "projectName": "字符串string2查找r在字符中出现的位置",
+      "projectPath": "D:\\cSharp\\netcoreCase\\字符串string2查找r在字符中出现的位置\\字符串string2查找r在字符中出现的位置.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\cSharp\\netcoreCase\\002switch分支语句\\obj\\",
+      "outputPath": "D:\\cSharp\\netcoreCase\\字符串string2查找r在字符中出现的位置\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\cSharp\\netcoreCase\\002switch分支语句\\002switch分支语句.csproj": {}
+    "D:\\cSharp\\netcoreCase\\001if-else\\001if-else.csproj": {}
   },
   "projects": {
-    "D:\\cSharp\\netcoreCase\\002switch分支语句\\002switch分支语句.csproj": {
+    "D:\\cSharp\\netcoreCase\\001if-else\\001if-else.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cSharp\\netcoreCase\\002switch分支语句\\002switch分支语句.csproj",
-        "projectName": "002switch分支语句",
-        "projectPath": "D:\\cSharp\\netcoreCase\\002switch分支语句\\002switch分支语句.csproj",
+        "projectUniqueName": "D:\\cSharp\\netcoreCase\\001if-else\\001if-else.csproj",
+        "projectName": "001if-else",
+        "projectPath": "D:\\cSharp\\netcoreCase\\001if-else\\001if-else.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\cSharp\\netcoreCase\\002switch分支语句\\obj\\",
+        "outputPath": "D:\\cSharp\\netcoreCase\\001if-else\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

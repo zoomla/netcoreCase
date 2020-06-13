@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RznHayzj+VP7ereJ4AS4vHnRU5OJC5tLzlroieWmP5JUpmbid0ffWxB7FRN1r19tAVZmMZKA+BJwtnc3GY5x3g==",
+  "dgSpecHash": "qmpec/kDNErKF6cPEABa0enaMP0k/ovxvMtvReo8z0Ewbj6xRf///YWR/cYEZ5tbx+yz5RNZBW7ayG/rPI3F8g==",
   "success": true,
-  "projectFilePath": "D:\\visual-studio\\study0611\\002switch分支语句\\002switch分支语句.csproj",
+  "projectFilePath": "D:\\cSharp\\netcoreCase\\002switch分支语句\\002switch分支语句.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -10,3 +10,4 @@ D:\cSharp\netcoreCase\数组6获取二维数组的列数\obj\Debug\netcoreapp3.1
 D:\cSharp\netcoreCase\数组6获取二维数组的列数\obj\Debug\netcoreapp3.1\数组6获取二维数组的列数.dll
 D:\cSharp\netcoreCase\数组6获取二维数组的列数\obj\Debug\netcoreapp3.1\数组6获取二维数组的列数.pdb
 D:\cSharp\netcoreCase\数组6获取二维数组的列数\obj\Debug\netcoreapp3.1\数组6获取二维数组的列数.genruntimeconfig.cache
+D:\cSharp\netcoreCase\数组6获取二维数组的列数\obj\Debug\netcoreapp3.1\数组6获取二维数组的列数.csprojAssemblyReference.cache

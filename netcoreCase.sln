@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001if-else", "study0611\001if-else.csproj", "{876A8D0D-2711-4211-80F2-58DFD9DF4646}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001if-else", "001if-else\001if-else.csproj", "{876A8D0D-2711-4211-80F2-58DFD9DF4646}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002switch分支语句", "002switch分支语句\002switch分支语句.csproj", "{2271AB2A-69BE-4FFC-897D-5B84351B4550}"
 EndProject
@@ -33,9 +33,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "数组3模拟客车售票�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "数组4打印输出杨辉三角", "数组4打印输出杨辉三角\数组4打印输出杨辉三角.csproj", "{847C9626-A4B7-44BC-8962-29360A2BD1D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数组5foreach数组输出狼人杀游戏主要角色", "数组5foreach数组输出狼人杀游戏主要角色\数组5foreach数组输出狼人杀游戏主要角色.csproj", "{0127CF52-E722-4697-8FFE-225357101DEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "数组5foreach数组输出狼人杀游戏主要角色", "数组5foreach数组输出狼人杀游戏主要角色\数组5foreach数组输出狼人杀游戏主要角色.csproj", "{0127CF52-E722-4697-8FFE-225357101DEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数组6获取二维数组的列数", "数组6获取二维数组的列数\数组6获取二维数组的列数.csproj", "{AB63D0CA-5345-431F-9FD0-712FD307E49B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "数组6获取二维数组的列数", "数组6获取二维数组的列数\数组6获取二维数组的列数.csproj", "{AB63D0CA-5345-431F-9FD0-712FD307E49B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "字符串string1获取指定字符位置", "字符串string1获取指定字符位置\字符串string1获取指定字符位置.csproj", "{EE9FC599-EE4E-4EC2-8472-8DA1B53D2730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字符串string2查找r在字符中出现的位置", "字符串string2查找r在字符中出现的位置\字符串string2查找r在字符中出现的位置.csproj", "{DE585BCE-18AA-4C83-8F6E-207226C72833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字符串string3使用stratswith查找开始字符", "字符串string3使用stratswith查找开始字符\字符串string3使用stratswith查找开始字符.csproj", "{EEB35F05-0647-4B16-A210-B1A34AEAB417}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +117,18 @@ Global
 		{AB63D0CA-5345-431F-9FD0-712FD307E49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB63D0CA-5345-431F-9FD0-712FD307E49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB63D0CA-5345-431F-9FD0-712FD307E49B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE9FC599-EE4E-4EC2-8472-8DA1B53D2730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE9FC599-EE4E-4EC2-8472-8DA1B53D2730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE9FC599-EE4E-4EC2-8472-8DA1B53D2730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE9FC599-EE4E-4EC2-8472-8DA1B53D2730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE585BCE-18AA-4C83-8F6E-207226C72833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE585BCE-18AA-4C83-8F6E-207226C72833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE585BCE-18AA-4C83-8F6E-207226C72833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE585BCE-18AA-4C83-8F6E-207226C72833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB35F05-0647-4B16-A210-B1A34AEAB417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB35F05-0647-4B16-A210-B1A34AEAB417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB35F05-0647-4B16-A210-B1A34AEAB417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB35F05-0647-4B16-A210-B1A34AEAB417}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
