@@ -1,0 +1,12 @@
+D:\cSharp\netcoreCase\数组6获取二维数组的列数\bin\Debug\netcoreapp3.1\数组6获取二维数组的列数.exe
+D:\cSharp\netcoreCase\数组6获取二维数组的列数\bin\Debug\netcoreapp3.1\数组6获取二维数组的列数.deps.json
+D:\cSharp\netcoreCase\数组6获取二维数组的列数\bin\Debug\netcoreapp3.1\数组6获取二维数组的列数.runtimeconfig.json
+D:\cSharp\netcoreCase\数组6获取二维数组的列数\bin\Debug\netcoreapp3.1\数组6获取二维数组的列数.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\数组6获取二维数组的列数\bin\Debug\netcoreapp3.1\数组6获取二维数组的列数.dll
+D:\cSharp\netcoreCase\数组6获取二维数组的列数\bin\Debug\netcoreapp3.1\数组6获取二维数组的列数.pdb
+D:\cSharp\netcoreCase\数组6获取二维数组的列数\obj\Debug\netcoreapp3.1\数组6获取二维数组的列数.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\数组6获取二维数组的列数\obj\Debug\netcoreapp3.1\数组6获取二维数组的列数.AssemblyInfo.cs
+D:\cSharp\netcoreCase\数组6获取二维数组的列数\obj\Debug\netcoreapp3.1\数组6获取二维数组的列数.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\数组6获取二维数组的列数\obj\Debug\netcoreapp3.1\数组6获取二维数组的列数.dll
+D:\cSharp\netcoreCase\数组6获取二维数组的列数\obj\Debug\netcoreapp3.1\数组6获取二维数组的列数.pdb
+D:\cSharp\netcoreCase\数组6获取二维数组的列数\obj\Debug\netcoreapp3.1\数组6获取二维数组的列数.genruntimeconfig.cache

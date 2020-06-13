@@ -1,0 +1,13 @@
+D:\cSharp\netcoreCase\数组4打印输出杨辉三角\bin\Debug\netcoreapp3.1\数组4打印输出杨辉三角.exe
+D:\cSharp\netcoreCase\数组4打印输出杨辉三角\bin\Debug\netcoreapp3.1\数组4打印输出杨辉三角.deps.json
+D:\cSharp\netcoreCase\数组4打印输出杨辉三角\bin\Debug\netcoreapp3.1\数组4打印输出杨辉三角.runtimeconfig.json
+D:\cSharp\netcoreCase\数组4打印输出杨辉三角\bin\Debug\netcoreapp3.1\数组4打印输出杨辉三角.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\数组4打印输出杨辉三角\bin\Debug\netcoreapp3.1\数组4打印输出杨辉三角.dll
+D:\cSharp\netcoreCase\数组4打印输出杨辉三角\bin\Debug\netcoreapp3.1\数组4打印输出杨辉三角.pdb
+D:\cSharp\netcoreCase\数组4打印输出杨辉三角\obj\Debug\netcoreapp3.1\数组4打印输出杨辉三角.csprojAssemblyReference.cache
+D:\cSharp\netcoreCase\数组4打印输出杨辉三角\obj\Debug\netcoreapp3.1\数组4打印输出杨辉三角.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\数组4打印输出杨辉三角\obj\Debug\netcoreapp3.1\数组4打印输出杨辉三角.AssemblyInfo.cs
+D:\cSharp\netcoreCase\数组4打印输出杨辉三角\obj\Debug\netcoreapp3.1\数组4打印输出杨辉三角.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\数组4打印输出杨辉三角\obj\Debug\netcoreapp3.1\数组4打印输出杨辉三角.dll
+D:\cSharp\netcoreCase\数组4打印输出杨辉三角\obj\Debug\netcoreapp3.1\数组4打印输出杨辉三角.pdb
+D:\cSharp\netcoreCase\数组4打印输出杨辉三角\obj\Debug\netcoreapp3.1\数组4打印输出杨辉三角.genruntimeconfig.cache

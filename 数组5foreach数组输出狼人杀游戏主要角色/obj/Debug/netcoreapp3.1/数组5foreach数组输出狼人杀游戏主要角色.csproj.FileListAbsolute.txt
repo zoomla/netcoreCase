@@ -1,0 +1,13 @@
+D:\cSharp\netcoreCase\数组5foreach数组输出狼人杀游戏主要角色\bin\Debug\netcoreapp3.1\数组5foreach数组输出狼人杀游戏主要角色.exe
+D:\cSharp\netcoreCase\数组5foreach数组输出狼人杀游戏主要角色\bin\Debug\netcoreapp3.1\数组5foreach数组输出狼人杀游戏主要角色.deps.json
+D:\cSharp\netcoreCase\数组5foreach数组输出狼人杀游戏主要角色\bin\Debug\netcoreapp3.1\数组5foreach数组输出狼人杀游戏主要角色.runtimeconfig.json
+D:\cSharp\netcoreCase\数组5foreach数组输出狼人杀游戏主要角色\bin\Debug\netcoreapp3.1\数组5foreach数组输出狼人杀游戏主要角色.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\数组5foreach数组输出狼人杀游戏主要角色\bin\Debug\netcoreapp3.1\数组5foreach数组输出狼人杀游戏主要角色.dll
+D:\cSharp\netcoreCase\数组5foreach数组输出狼人杀游戏主要角色\bin\Debug\netcoreapp3.1\数组5foreach数组输出狼人杀游戏主要角色.pdb
+D:\cSharp\netcoreCase\数组5foreach数组输出狼人杀游戏主要角色\obj\Debug\netcoreapp3.1\数组5foreach数组输出狼人杀游戏主要角色.csprojAssemblyReference.cache
+D:\cSharp\netcoreCase\数组5foreach数组输出狼人杀游戏主要角色\obj\Debug\netcoreapp3.1\数组5foreach数组输出狼人杀游戏主要角色.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\数组5foreach数组输出狼人杀游戏主要角色\obj\Debug\netcoreapp3.1\数组5foreach数组输出狼人杀游戏主要角色.AssemblyInfo.cs
+D:\cSharp\netcoreCase\数组5foreach数组输出狼人杀游戏主要角色\obj\Debug\netcoreapp3.1\数组5foreach数组输出狼人杀游戏主要角色.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\数组5foreach数组输出狼人杀游戏主要角色\obj\Debug\netcoreapp3.1\数组5foreach数组输出狼人杀游戏主要角色.dll
+D:\cSharp\netcoreCase\数组5foreach数组输出狼人杀游戏主要角色\obj\Debug\netcoreapp3.1\数组5foreach数组输出狼人杀游戏主要角色.pdb
+D:\cSharp\netcoreCase\数组5foreach数组输出狼人杀游戏主要角色\obj\Debug\netcoreapp3.1\数组5foreach数组输出狼人杀游戏主要角色.genruntimeconfig.cache
