@@ -41,7 +41,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "字符串string1获取指�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字符串string2查找r在字符中出现的位置", "字符串string2查找r在字符中出现的位置\字符串string2查找r在字符中出现的位置.csproj", "{DE585BCE-18AA-4C83-8F6E-207226C72833}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字符串string3使用stratswith查找开始字符", "字符串string3使用stratswith查找开始字符\字符串string3使用stratswith查找开始字符.csproj", "{EEB35F05-0647-4B16-A210-B1A34AEAB417}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "字符串string3使用stratswith查找开始字符", "字符串string3使用stratswith查找开始字符\字符串string3使用stratswith查找开始字符.csproj", "{EEB35F05-0647-4B16-A210-B1A34AEAB417}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字符串string4比较之馒头与馍馍是否同一物", "字符串string4比较之馒头与馍馍是否同一物\字符串string4比较之馒头与馍馍是否同一物.csproj", "{8864FFE2-5BE6-4E06-94D1-323E4F1C5F26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字符串string5用equals方法比较字符串是否相同", "字符串string5用equals方法比较字符串是否相同\字符串string5用equals方法比较字符串是否相同.csproj", "{2C393725-78F7-446F-B28D-A4B37C87C361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字符串string6用do-while验证用户登录全过程", "字符串string6用do-while验证用户登录全过程\字符串string6用do-while验证用户登录全过程.csproj", "{5B28CB5D-D6CF-44CD-A99E-4CE7DCFF5315}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +135,18 @@ Global
 		{EEB35F05-0647-4B16-A210-B1A34AEAB417}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEB35F05-0647-4B16-A210-B1A34AEAB417}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEB35F05-0647-4B16-A210-B1A34AEAB417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8864FFE2-5BE6-4E06-94D1-323E4F1C5F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8864FFE2-5BE6-4E06-94D1-323E4F1C5F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8864FFE2-5BE6-4E06-94D1-323E4F1C5F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8864FFE2-5BE6-4E06-94D1-323E4F1C5F26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C393725-78F7-446F-B28D-A4B37C87C361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C393725-78F7-446F-B28D-A4B37C87C361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C393725-78F7-446F-B28D-A4B37C87C361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C393725-78F7-446F-B28D-A4B37C87C361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B28CB5D-D6CF-44CD-A99E-4CE7DCFF5315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B28CB5D-D6CF-44CD-A99E-4CE7DCFF5315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B28CB5D-D6CF-44CD-A99E-4CE7DCFF5315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B28CB5D-D6CF-44CD-A99E-4CE7DCFF5315}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

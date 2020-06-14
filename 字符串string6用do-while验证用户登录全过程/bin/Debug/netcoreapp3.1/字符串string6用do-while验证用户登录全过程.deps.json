@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "字符串string6用do-while验证用户登录全过程/1.0.0": {
+        "runtime": {
+          "字符串string6用do-while验证用户登录全过程.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "字符串string6用do-while验证用户登录全过程/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "字符串string4比较之馒头与馍馍是否同一物/1.0.0": {
+        "runtime": {
+          "字符串string4比较之馒头与馍馍是否同一物.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "字符串string4比较之馒头与馍馍是否同一物/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
