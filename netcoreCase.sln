@@ -47,7 +47,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字符串string4比较之�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字符串string5用equals方法比较字符串是否相同", "字符串string5用equals方法比较字符串是否相同\字符串string5用equals方法比较字符串是否相同.csproj", "{2C393725-78F7-446F-B28D-A4B37C87C361}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字符串string6用do-while验证用户登录全过程", "字符串string6用do-while验证用户登录全过程\字符串string6用do-while验证用户登录全过程.csproj", "{5B28CB5D-D6CF-44CD-A99E-4CE7DCFF5315}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "字符串string6用do-while验证用户登录全过程", "字符串string6用do-while验证用户登录全过程\字符串string6用do-while验证用户登录全过程.csproj", "{5B28CB5D-D6CF-44CD-A99E-4CE7DCFF5315}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "面向对象object01计算圆的面积", "面向对象object01计算圆的面积\面向对象object01计算圆的面积.csproj", "{C5E95D46-FEBE-4005-B985-E1CDBE8F4B40}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "面向对象object02输出员工姓名及年龄字段", "面向对象object02输出员工姓名及年龄字段\面向对象object02输出员工姓名及年龄字段.csproj", "{504DE014-BAE3-4965-A717-1397182E3038}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象object03通过属性控制器输入年龄范围", "面向对象object03通过属性控制器输入年龄范围\面向对象object03通过属性控制器输入年龄范围.csproj", "{C7B5A1EF-EEFA-4012-A9B9-F456647B4294}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "面向对象object04静态与实例构造函数", "面向对象object04静态与动态构造函数\面向对象object04静态与实例构造函数.csproj", "{6A4E6CCC-8743-41A5-8BB3-5B88F087768E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "面向对象object05根据星期几定义控制台颜色", "面向对象object05根据星期几定义控制台颜色\面向对象object05根据星期几定义控制台颜色.csproj", "{39E45D32-8C38-4886-94E6-EAC842B0C7B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象object06智能手机默认语言设置", "面向对象object06\面向对象object06智能手机默认语言设置.csproj", "{86BB8C2B-F345-459D-9D53-55919AEAF7C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +159,30 @@ Global
 		{5B28CB5D-D6CF-44CD-A99E-4CE7DCFF5315}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B28CB5D-D6CF-44CD-A99E-4CE7DCFF5315}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B28CB5D-D6CF-44CD-A99E-4CE7DCFF5315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5E95D46-FEBE-4005-B985-E1CDBE8F4B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E95D46-FEBE-4005-B985-E1CDBE8F4B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E95D46-FEBE-4005-B985-E1CDBE8F4B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E95D46-FEBE-4005-B985-E1CDBE8F4B40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{504DE014-BAE3-4965-A717-1397182E3038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504DE014-BAE3-4965-A717-1397182E3038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504DE014-BAE3-4965-A717-1397182E3038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504DE014-BAE3-4965-A717-1397182E3038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B5A1EF-EEFA-4012-A9B9-F456647B4294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B5A1EF-EEFA-4012-A9B9-F456647B4294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B5A1EF-EEFA-4012-A9B9-F456647B4294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B5A1EF-EEFA-4012-A9B9-F456647B4294}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A4E6CCC-8743-41A5-8BB3-5B88F087768E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A4E6CCC-8743-41A5-8BB3-5B88F087768E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A4E6CCC-8743-41A5-8BB3-5B88F087768E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A4E6CCC-8743-41A5-8BB3-5B88F087768E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39E45D32-8C38-4886-94E6-EAC842B0C7B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39E45D32-8C38-4886-94E6-EAC842B0C7B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39E45D32-8C38-4886-94E6-EAC842B0C7B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39E45D32-8C38-4886-94E6-EAC842B0C7B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86BB8C2B-F345-459D-9D53-55919AEAF7C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86BB8C2B-F345-459D-9D53-55919AEAF7C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86BB8C2B-F345-459D-9D53-55919AEAF7C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86BB8C2B-F345-459D-9D53-55919AEAF7C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,13 @@
+D:\cSharp\netcoreCase\面向对象object03通过属性控制器输入年龄范围\bin\Debug\netcoreapp3.1\面向对象object03通过属性控制器输入年龄范围.exe
+D:\cSharp\netcoreCase\面向对象object03通过属性控制器输入年龄范围\bin\Debug\netcoreapp3.1\面向对象object03通过属性控制器输入年龄范围.deps.json
+D:\cSharp\netcoreCase\面向对象object03通过属性控制器输入年龄范围\bin\Debug\netcoreapp3.1\面向对象object03通过属性控制器输入年龄范围.runtimeconfig.json
+D:\cSharp\netcoreCase\面向对象object03通过属性控制器输入年龄范围\bin\Debug\netcoreapp3.1\面向对象object03通过属性控制器输入年龄范围.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\面向对象object03通过属性控制器输入年龄范围\bin\Debug\netcoreapp3.1\面向对象object03通过属性控制器输入年龄范围.dll
+D:\cSharp\netcoreCase\面向对象object03通过属性控制器输入年龄范围\bin\Debug\netcoreapp3.1\面向对象object03通过属性控制器输入年龄范围.pdb
+D:\cSharp\netcoreCase\面向对象object03通过属性控制器输入年龄范围\obj\Debug\netcoreapp3.1\面向对象object03通过属性控制器输入年龄范围.csprojAssemblyReference.cache
+D:\cSharp\netcoreCase\面向对象object03通过属性控制器输入年龄范围\obj\Debug\netcoreapp3.1\面向对象object03通过属性控制器输入年龄范围.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\面向对象object03通过属性控制器输入年龄范围\obj\Debug\netcoreapp3.1\面向对象object03通过属性控制器输入年龄范围.AssemblyInfo.cs
+D:\cSharp\netcoreCase\面向对象object03通过属性控制器输入年龄范围\obj\Debug\netcoreapp3.1\面向对象object03通过属性控制器输入年龄范围.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\面向对象object03通过属性控制器输入年龄范围\obj\Debug\netcoreapp3.1\面向对象object03通过属性控制器输入年龄范围.dll
+D:\cSharp\netcoreCase\面向对象object03通过属性控制器输入年龄范围\obj\Debug\netcoreapp3.1\面向对象object03通过属性控制器输入年龄范围.pdb
+D:\cSharp\netcoreCase\面向对象object03通过属性控制器输入年龄范围\obj\Debug\netcoreapp3.1\面向对象object03通过属性控制器输入年龄范围.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\cSharp\netcoreCase\面向对象object06\bin\Debug\netcoreapp3.1\面向对象object06智能手机默认语言设置.exe
+D:\cSharp\netcoreCase\面向对象object06\bin\Debug\netcoreapp3.1\面向对象object06智能手机默认语言设置.deps.json
+D:\cSharp\netcoreCase\面向对象object06\bin\Debug\netcoreapp3.1\面向对象object06智能手机默认语言设置.runtimeconfig.json
+D:\cSharp\netcoreCase\面向对象object06\bin\Debug\netcoreapp3.1\面向对象object06智能手机默认语言设置.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\面向对象object06\bin\Debug\netcoreapp3.1\面向对象object06智能手机默认语言设置.dll
+D:\cSharp\netcoreCase\面向对象object06\bin\Debug\netcoreapp3.1\面向对象object06智能手机默认语言设置.pdb
+D:\cSharp\netcoreCase\面向对象object06\obj\Debug\netcoreapp3.1\面向对象object06智能手机默认语言设置.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\面向对象object06\obj\Debug\netcoreapp3.1\面向对象object06智能手机默认语言设置.AssemblyInfo.cs
+D:\cSharp\netcoreCase\面向对象object06\obj\Debug\netcoreapp3.1\面向对象object06智能手机默认语言设置.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\面向对象object06\obj\Debug\netcoreapp3.1\面向对象object06智能手机默认语言设置.dll
+D:\cSharp\netcoreCase\面向对象object06\obj\Debug\netcoreapp3.1\面向对象object06智能手机默认语言设置.pdb
+D:\cSharp\netcoreCase\面向对象object06\obj\Debug\netcoreapp3.1\面向对象object06智能手机默认语言设置.genruntimeconfig.cache

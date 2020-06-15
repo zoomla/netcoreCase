@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "面向对象object03通过属性控制器输入年龄范围/1.0.0": {
+        "runtime": {
+          "面向对象object03通过属性控制器输入年龄范围.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "面向对象object03通过属性控制器输入年龄范围/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

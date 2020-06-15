@@ -1,0 +1,13 @@
+D:\cSharp\netcoreCase\面向对象object05根据星期几定义控制台颜色\obj\Debug\netcoreapp3.1\面向对象object05根据星期几定义控制台颜色.csprojAssemblyReference.cache
+D:\cSharp\netcoreCase\面向对象object05根据星期几定义控制台颜色\obj\Debug\netcoreapp3.1\面向对象object05根据星期几定义控制台颜色.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\面向对象object05根据星期几定义控制台颜色\obj\Debug\netcoreapp3.1\面向对象object05根据星期几定义控制台颜色.AssemblyInfo.cs
+D:\cSharp\netcoreCase\面向对象object05根据星期几定义控制台颜色\obj\Debug\netcoreapp3.1\面向对象object05根据星期几定义控制台颜色.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\面向对象object05根据星期几定义控制台颜色\bin\Debug\netcoreapp3.1\面向对象object05根据星期几定义控制台颜色.exe
+D:\cSharp\netcoreCase\面向对象object05根据星期几定义控制台颜色\bin\Debug\netcoreapp3.1\面向对象object05根据星期几定义控制台颜色.deps.json
+D:\cSharp\netcoreCase\面向对象object05根据星期几定义控制台颜色\bin\Debug\netcoreapp3.1\面向对象object05根据星期几定义控制台颜色.runtimeconfig.json
+D:\cSharp\netcoreCase\面向对象object05根据星期几定义控制台颜色\bin\Debug\netcoreapp3.1\面向对象object05根据星期几定义控制台颜色.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\面向对象object05根据星期几定义控制台颜色\bin\Debug\netcoreapp3.1\面向对象object05根据星期几定义控制台颜色.dll
+D:\cSharp\netcoreCase\面向对象object05根据星期几定义控制台颜色\bin\Debug\netcoreapp3.1\面向对象object05根据星期几定义控制台颜色.pdb
+D:\cSharp\netcoreCase\面向对象object05根据星期几定义控制台颜色\obj\Debug\netcoreapp3.1\面向对象object05根据星期几定义控制台颜色.dll
+D:\cSharp\netcoreCase\面向对象object05根据星期几定义控制台颜色\obj\Debug\netcoreapp3.1\面向对象object05根据星期几定义控制台颜色.pdb
+D:\cSharp\netcoreCase\面向对象object05根据星期几定义控制台颜色\obj\Debug\netcoreapp3.1\面向对象object05根据星期几定义控制台颜色.genruntimeconfig.cache

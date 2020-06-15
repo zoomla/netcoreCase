@@ -1,0 +1,13 @@
+D:\cSharp\netcoreCase\面向对象object02输出员工姓名及年龄字段\bin\Debug\netcoreapp3.1\面向对象object02输出员工姓名及年龄字段.exe
+D:\cSharp\netcoreCase\面向对象object02输出员工姓名及年龄字段\bin\Debug\netcoreapp3.1\面向对象object02输出员工姓名及年龄字段.deps.json
+D:\cSharp\netcoreCase\面向对象object02输出员工姓名及年龄字段\bin\Debug\netcoreapp3.1\面向对象object02输出员工姓名及年龄字段.runtimeconfig.json
+D:\cSharp\netcoreCase\面向对象object02输出员工姓名及年龄字段\bin\Debug\netcoreapp3.1\面向对象object02输出员工姓名及年龄字段.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\面向对象object02输出员工姓名及年龄字段\bin\Debug\netcoreapp3.1\面向对象object02输出员工姓名及年龄字段.dll
+D:\cSharp\netcoreCase\面向对象object02输出员工姓名及年龄字段\bin\Debug\netcoreapp3.1\面向对象object02输出员工姓名及年龄字段.pdb
+D:\cSharp\netcoreCase\面向对象object02输出员工姓名及年龄字段\obj\Debug\netcoreapp3.1\面向对象object02输出员工姓名及年龄字段.csprojAssemblyReference.cache
+D:\cSharp\netcoreCase\面向对象object02输出员工姓名及年龄字段\obj\Debug\netcoreapp3.1\面向对象object02输出员工姓名及年龄字段.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\面向对象object02输出员工姓名及年龄字段\obj\Debug\netcoreapp3.1\面向对象object02输出员工姓名及年龄字段.AssemblyInfo.cs
+D:\cSharp\netcoreCase\面向对象object02输出员工姓名及年龄字段\obj\Debug\netcoreapp3.1\面向对象object02输出员工姓名及年龄字段.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\面向对象object02输出员工姓名及年龄字段\obj\Debug\netcoreapp3.1\面向对象object02输出员工姓名及年龄字段.dll
+D:\cSharp\netcoreCase\面向对象object02输出员工姓名及年龄字段\obj\Debug\netcoreapp3.1\面向对象object02输出员工姓名及年龄字段.pdb
+D:\cSharp\netcoreCase\面向对象object02输出员工姓名及年龄字段\obj\Debug\netcoreapp3.1\面向对象object02输出员工姓名及年龄字段.genruntimeconfig.cache

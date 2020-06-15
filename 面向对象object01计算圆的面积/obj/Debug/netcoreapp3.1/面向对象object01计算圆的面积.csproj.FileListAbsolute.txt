@@ -1,0 +1,13 @@
+D:\cSharp\netcoreCase\面向对象object01计算圆的面积\bin\Debug\netcoreapp3.1\面向对象object01计算圆的面积.exe
+D:\cSharp\netcoreCase\面向对象object01计算圆的面积\bin\Debug\netcoreapp3.1\面向对象object01计算圆的面积.deps.json
+D:\cSharp\netcoreCase\面向对象object01计算圆的面积\bin\Debug\netcoreapp3.1\面向对象object01计算圆的面积.runtimeconfig.json
+D:\cSharp\netcoreCase\面向对象object01计算圆的面积\bin\Debug\netcoreapp3.1\面向对象object01计算圆的面积.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\面向对象object01计算圆的面积\bin\Debug\netcoreapp3.1\面向对象object01计算圆的面积.dll
+D:\cSharp\netcoreCase\面向对象object01计算圆的面积\bin\Debug\netcoreapp3.1\面向对象object01计算圆的面积.pdb
+D:\cSharp\netcoreCase\面向对象object01计算圆的面积\obj\Debug\netcoreapp3.1\面向对象object01计算圆的面积.csprojAssemblyReference.cache
+D:\cSharp\netcoreCase\面向对象object01计算圆的面积\obj\Debug\netcoreapp3.1\面向对象object01计算圆的面积.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\面向对象object01计算圆的面积\obj\Debug\netcoreapp3.1\面向对象object01计算圆的面积.AssemblyInfo.cs
+D:\cSharp\netcoreCase\面向对象object01计算圆的面积\obj\Debug\netcoreapp3.1\面向对象object01计算圆的面积.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\面向对象object01计算圆的面积\obj\Debug\netcoreapp3.1\面向对象object01计算圆的面积.dll
+D:\cSharp\netcoreCase\面向对象object01计算圆的面积\obj\Debug\netcoreapp3.1\面向对象object01计算圆的面积.pdb
+D:\cSharp\netcoreCase\面向对象object01计算圆的面积\obj\Debug\netcoreapp3.1\面向对象object01计算圆的面积.genruntimeconfig.cache
