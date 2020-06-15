@@ -1,0 +1,13 @@
+D:\cSharp\netcoreCase\面向对象object08银行帐户交易管理\obj\Debug\netcoreapp3.1\面向对象object08银行帐户交易管理.csprojAssemblyReference.cache
+D:\cSharp\netcoreCase\面向对象object08银行帐户交易管理\obj\Debug\netcoreapp3.1\面向对象object08银行帐户交易管理.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\面向对象object08银行帐户交易管理\obj\Debug\netcoreapp3.1\面向对象object08银行帐户交易管理.AssemblyInfo.cs
+D:\cSharp\netcoreCase\面向对象object08银行帐户交易管理\obj\Debug\netcoreapp3.1\面向对象object08银行帐户交易管理.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\面向对象object08银行帐户交易管理\bin\Debug\netcoreapp3.1\面向对象object08银行帐户交易管理.exe
+D:\cSharp\netcoreCase\面向对象object08银行帐户交易管理\bin\Debug\netcoreapp3.1\面向对象object08银行帐户交易管理.deps.json
+D:\cSharp\netcoreCase\面向对象object08银行帐户交易管理\bin\Debug\netcoreapp3.1\面向对象object08银行帐户交易管理.runtimeconfig.json
+D:\cSharp\netcoreCase\面向对象object08银行帐户交易管理\bin\Debug\netcoreapp3.1\面向对象object08银行帐户交易管理.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\面向对象object08银行帐户交易管理\bin\Debug\netcoreapp3.1\面向对象object08银行帐户交易管理.dll
+D:\cSharp\netcoreCase\面向对象object08银行帐户交易管理\bin\Debug\netcoreapp3.1\面向对象object08银行帐户交易管理.pdb
+D:\cSharp\netcoreCase\面向对象object08银行帐户交易管理\obj\Debug\netcoreapp3.1\面向对象object08银行帐户交易管理.dll
+D:\cSharp\netcoreCase\面向对象object08银行帐户交易管理\obj\Debug\netcoreapp3.1\面向对象object08银行帐户交易管理.pdb
+D:\cSharp\netcoreCase\面向对象object08银行帐户交易管理\obj\Debug\netcoreapp3.1\面向对象object08银行帐户交易管理.genruntimeconfig.cache

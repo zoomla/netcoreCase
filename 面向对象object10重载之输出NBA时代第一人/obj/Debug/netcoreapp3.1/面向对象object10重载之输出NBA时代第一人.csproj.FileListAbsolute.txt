@@ -1,0 +1,12 @@
+D:\cSharp\netcoreCase\面向对象object10重载之输出NBA时代第一人\obj\Debug\netcoreapp3.1\面向对象object10重载之输出NBA时代第一人.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\面向对象object10重载之输出NBA时代第一人\obj\Debug\netcoreapp3.1\面向对象object10重载之输出NBA时代第一人.AssemblyInfo.cs
+D:\cSharp\netcoreCase\面向对象object10重载之输出NBA时代第一人\obj\Debug\netcoreapp3.1\面向对象object10重载之输出NBA时代第一人.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\面向对象object10重载之输出NBA时代第一人\bin\Debug\netcoreapp3.1\面向对象object10重载之输出NBA时代第一人.exe
+D:\cSharp\netcoreCase\面向对象object10重载之输出NBA时代第一人\bin\Debug\netcoreapp3.1\面向对象object10重载之输出NBA时代第一人.deps.json
+D:\cSharp\netcoreCase\面向对象object10重载之输出NBA时代第一人\bin\Debug\netcoreapp3.1\面向对象object10重载之输出NBA时代第一人.runtimeconfig.json
+D:\cSharp\netcoreCase\面向对象object10重载之输出NBA时代第一人\bin\Debug\netcoreapp3.1\面向对象object10重载之输出NBA时代第一人.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\面向对象object10重载之输出NBA时代第一人\bin\Debug\netcoreapp3.1\面向对象object10重载之输出NBA时代第一人.dll
+D:\cSharp\netcoreCase\面向对象object10重载之输出NBA时代第一人\bin\Debug\netcoreapp3.1\面向对象object10重载之输出NBA时代第一人.pdb
+D:\cSharp\netcoreCase\面向对象object10重载之输出NBA时代第一人\obj\Debug\netcoreapp3.1\面向对象object10重载之输出NBA时代第一人.dll
+D:\cSharp\netcoreCase\面向对象object10重载之输出NBA时代第一人\obj\Debug\netcoreapp3.1\面向对象object10重载之输出NBA时代第一人.pdb
+D:\cSharp\netcoreCase\面向对象object10重载之输出NBA时代第一人\obj\Debug\netcoreapp3.1\面向对象object10重载之输出NBA时代第一人.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "面向对象object09方重置之加法的同运算形式/1.0.0": {
+        "runtime": {
+          "面向对象object09方重置之加法的同运算形式.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "面向对象object09方重置之加法的同运算形式/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "面向对象object10重载之输出NBA时代第一人/1.0.0": {
+        "runtime": {
+          "面向对象object10重载之输出NBA时代第一人.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "面向对象object10重载之输出NBA时代第一人/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+D:\cSharp\netcoreCase\面向对象object07商场促销价格计算\obj\Debug\netcoreapp3.1\面向对象object07商场促销价格计算.csprojAssemblyReference.cache
+D:\cSharp\netcoreCase\面向对象object07商场促销价格计算\obj\Debug\netcoreapp3.1\面向对象object07商场促销价格计算.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\面向对象object07商场促销价格计算\obj\Debug\netcoreapp3.1\面向对象object07商场促销价格计算.AssemblyInfo.cs
+D:\cSharp\netcoreCase\面向对象object07商场促销价格计算\obj\Debug\netcoreapp3.1\面向对象object07商场促销价格计算.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\面向对象object07商场促销价格计算\bin\Debug\netcoreapp3.1\面向对象object07商场促销价格计算.exe
+D:\cSharp\netcoreCase\面向对象object07商场促销价格计算\bin\Debug\netcoreapp3.1\面向对象object07商场促销价格计算.deps.json
+D:\cSharp\netcoreCase\面向对象object07商场促销价格计算\bin\Debug\netcoreapp3.1\面向对象object07商场促销价格计算.runtimeconfig.json
+D:\cSharp\netcoreCase\面向对象object07商场促销价格计算\bin\Debug\netcoreapp3.1\面向对象object07商场促销价格计算.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\面向对象object07商场促销价格计算\bin\Debug\netcoreapp3.1\面向对象object07商场促销价格计算.dll
+D:\cSharp\netcoreCase\面向对象object07商场促销价格计算\bin\Debug\netcoreapp3.1\面向对象object07商场促销价格计算.pdb
+D:\cSharp\netcoreCase\面向对象object07商场促销价格计算\obj\Debug\netcoreapp3.1\面向对象object07商场促销价格计算.dll
+D:\cSharp\netcoreCase\面向对象object07商场促销价格计算\obj\Debug\netcoreapp3.1\面向对象object07商场促销价格计算.pdb
+D:\cSharp\netcoreCase\面向对象object07商场促销价格计算\obj\Debug\netcoreapp3.1\面向对象object07商场促销价格计算.genruntimeconfig.cache
