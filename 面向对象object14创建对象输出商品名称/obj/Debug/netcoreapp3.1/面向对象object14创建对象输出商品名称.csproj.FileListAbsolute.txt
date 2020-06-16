@@ -1,0 +1,13 @@
+D:\cSharp\netcoreCase\面向对象object14创建对象输出商品名称\bin\Debug\netcoreapp3.1\面向对象object14创建对象输出商品名称.exe
+D:\cSharp\netcoreCase\面向对象object14创建对象输出商品名称\bin\Debug\netcoreapp3.1\面向对象object14创建对象输出商品名称.deps.json
+D:\cSharp\netcoreCase\面向对象object14创建对象输出商品名称\bin\Debug\netcoreapp3.1\面向对象object14创建对象输出商品名称.runtimeconfig.json
+D:\cSharp\netcoreCase\面向对象object14创建对象输出商品名称\bin\Debug\netcoreapp3.1\面向对象object14创建对象输出商品名称.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\面向对象object14创建对象输出商品名称\bin\Debug\netcoreapp3.1\面向对象object14创建对象输出商品名称.dll
+D:\cSharp\netcoreCase\面向对象object14创建对象输出商品名称\bin\Debug\netcoreapp3.1\面向对象object14创建对象输出商品名称.pdb
+D:\cSharp\netcoreCase\面向对象object14创建对象输出商品名称\obj\Debug\netcoreapp3.1\面向对象object14创建对象输出商品名称.csprojAssemblyReference.cache
+D:\cSharp\netcoreCase\面向对象object14创建对象输出商品名称\obj\Debug\netcoreapp3.1\面向对象object14创建对象输出商品名称.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\面向对象object14创建对象输出商品名称\obj\Debug\netcoreapp3.1\面向对象object14创建对象输出商品名称.AssemblyInfo.cs
+D:\cSharp\netcoreCase\面向对象object14创建对象输出商品名称\obj\Debug\netcoreapp3.1\面向对象object14创建对象输出商品名称.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\面向对象object14创建对象输出商品名称\obj\Debug\netcoreapp3.1\面向对象object14创建对象输出商品名称.dll
+D:\cSharp\netcoreCase\面向对象object14创建对象输出商品名称\obj\Debug\netcoreapp3.1\面向对象object14创建对象输出商品名称.pdb
+D:\cSharp\netcoreCase\面向对象object14创建对象输出商品名称\obj\Debug\netcoreapp3.1\面向对象object14创建对象输出商品名称.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\cSharp\netcoreCase\面向对象object13类的静态成员银行利率账户算法\obj\Debug\netcoreapp3.1\面向对象object13类的静态成员银行利率账户算法.csprojAssemblyReference.cache
+D:\cSharp\netcoreCase\面向对象object13类的静态成员银行利率账户算法\obj\Debug\netcoreapp3.1\面向对象object13类的静态成员银行利率账户算法.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\面向对象object13类的静态成员银行利率账户算法\obj\Debug\netcoreapp3.1\面向对象object13类的静态成员银行利率账户算法.AssemblyInfo.cs
+D:\cSharp\netcoreCase\面向对象object13类的静态成员银行利率账户算法\obj\Debug\netcoreapp3.1\面向对象object13类的静态成员银行利率账户算法.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\面向对象object13类的静态成员银行利率账户算法\bin\Debug\netcoreapp3.1\面向对象object13类的静态成员银行利率账户算法.exe
+D:\cSharp\netcoreCase\面向对象object13类的静态成员银行利率账户算法\bin\Debug\netcoreapp3.1\面向对象object13类的静态成员银行利率账户算法.deps.json
+D:\cSharp\netcoreCase\面向对象object13类的静态成员银行利率账户算法\bin\Debug\netcoreapp3.1\面向对象object13类的静态成员银行利率账户算法.runtimeconfig.json
+D:\cSharp\netcoreCase\面向对象object13类的静态成员银行利率账户算法\bin\Debug\netcoreapp3.1\面向对象object13类的静态成员银行利率账户算法.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\面向对象object13类的静态成员银行利率账户算法\bin\Debug\netcoreapp3.1\面向对象object13类的静态成员银行利率账户算法.dll
+D:\cSharp\netcoreCase\面向对象object13类的静态成员银行利率账户算法\bin\Debug\netcoreapp3.1\面向对象object13类的静态成员银行利率账户算法.pdb
+D:\cSharp\netcoreCase\面向对象object13类的静态成员银行利率账户算法\obj\Debug\netcoreapp3.1\面向对象object13类的静态成员银行利率账户算法.dll
+D:\cSharp\netcoreCase\面向对象object13类的静态成员银行利率账户算法\obj\Debug\netcoreapp3.1\面向对象object13类的静态成员银行利率账户算法.pdb
+D:\cSharp\netcoreCase\面向对象object13类的静态成员银行利率账户算法\obj\Debug\netcoreapp3.1\面向对象object13类的静态成员银行利率账户算法.genruntimeconfig.cache

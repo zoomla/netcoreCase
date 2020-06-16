@@ -67,7 +67,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象object08银行�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象object09方重置之加法的同运算形式", "面向对象object09方重置之加法的同运算形式\面向对象object09方重置之加法的同运算形式.csproj", "{29CF8B2D-D53B-40BE-87EE-5D870E733BA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象object10重载之输出NBA时代第一人", "面向对象object10重载之输出NBA时代第一人\面向对象object10重载之输出NBA时代第一人.csproj", "{1B9835F7-039E-4C93-96CA-0F082084785A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "面向对象object10重载之输出NBA时代第一人", "面向对象object10重载之输出NBA时代第一人\面向对象object10重载之输出NBA时代第一人.csproj", "{1B9835F7-039E-4C93-96CA-0F082084785A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象object11类的静态成员计算两个数的和", "面向对象object11类的静态成员计算两个数的和\面向对象object11类的静态成员计算两个数的和.csproj", "{E498E2A5-171C-4A17-AD30-1AEE92630D0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象object12类的静态成员往池中注水", "面向对象object12类的静态成员往池中注水\面向对象object12类的静态成员往池中注水.csproj", "{771D2752-3C0B-4702-9E2C-440D6D2B0BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象object13类的静态成员银行利率账户算法", "面向对象object13类的静态成员银行利率账户算法\面向对象object13类的静态成员银行利率账户算法.csproj", "{0708BA13-990C-4A21-8465-95E6D9440CBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象object14创建对象输出商品名称", "面向对象object14创建对象输出商品名称\面向对象object14创建对象输出商品名称.csproj", "{F15B9515-88CE-460E-AA88-CA2EADAE7DDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象object15曹操败走华容道", "面向对象object15曹操败走华容道\面向对象object15曹操败走华容道.csproj", "{BA203DF7-A4DD-4A09-8118-1AD17D51AE06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +217,26 @@ Global
 		{1B9835F7-039E-4C93-96CA-0F082084785A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B9835F7-039E-4C93-96CA-0F082084785A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B9835F7-039E-4C93-96CA-0F082084785A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E498E2A5-171C-4A17-AD30-1AEE92630D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E498E2A5-171C-4A17-AD30-1AEE92630D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E498E2A5-171C-4A17-AD30-1AEE92630D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E498E2A5-171C-4A17-AD30-1AEE92630D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{771D2752-3C0B-4702-9E2C-440D6D2B0BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771D2752-3C0B-4702-9E2C-440D6D2B0BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771D2752-3C0B-4702-9E2C-440D6D2B0BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771D2752-3C0B-4702-9E2C-440D6D2B0BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0708BA13-990C-4A21-8465-95E6D9440CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0708BA13-990C-4A21-8465-95E6D9440CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0708BA13-990C-4A21-8465-95E6D9440CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0708BA13-990C-4A21-8465-95E6D9440CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F15B9515-88CE-460E-AA88-CA2EADAE7DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15B9515-88CE-460E-AA88-CA2EADAE7DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15B9515-88CE-460E-AA88-CA2EADAE7DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15B9515-88CE-460E-AA88-CA2EADAE7DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA203DF7-A4DD-4A09-8118-1AD17D51AE06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA203DF7-A4DD-4A09-8118-1AD17D51AE06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA203DF7-A4DD-4A09-8118-1AD17D51AE06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA203DF7-A4DD-4A09-8118-1AD17D51AE06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

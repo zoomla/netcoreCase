@@ -1,0 +1,12 @@
+D:\cSharp\netcoreCase\面向对象object11类的静态成员计算两个数的和\bin\Debug\netcoreapp3.1\面向对象object11类的静态成员计算两个数的和.exe
+D:\cSharp\netcoreCase\面向对象object11类的静态成员计算两个数的和\bin\Debug\netcoreapp3.1\面向对象object11类的静态成员计算两个数的和.deps.json
+D:\cSharp\netcoreCase\面向对象object11类的静态成员计算两个数的和\bin\Debug\netcoreapp3.1\面向对象object11类的静态成员计算两个数的和.runtimeconfig.json
+D:\cSharp\netcoreCase\面向对象object11类的静态成员计算两个数的和\bin\Debug\netcoreapp3.1\面向对象object11类的静态成员计算两个数的和.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\面向对象object11类的静态成员计算两个数的和\bin\Debug\netcoreapp3.1\面向对象object11类的静态成员计算两个数的和.dll
+D:\cSharp\netcoreCase\面向对象object11类的静态成员计算两个数的和\bin\Debug\netcoreapp3.1\面向对象object11类的静态成员计算两个数的和.pdb
+D:\cSharp\netcoreCase\面向对象object11类的静态成员计算两个数的和\obj\Debug\netcoreapp3.1\面向对象object11类的静态成员计算两个数的和.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\面向对象object11类的静态成员计算两个数的和\obj\Debug\netcoreapp3.1\面向对象object11类的静态成员计算两个数的和.AssemblyInfo.cs
+D:\cSharp\netcoreCase\面向对象object11类的静态成员计算两个数的和\obj\Debug\netcoreapp3.1\面向对象object11类的静态成员计算两个数的和.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\面向对象object11类的静态成员计算两个数的和\obj\Debug\netcoreapp3.1\面向对象object11类的静态成员计算两个数的和.dll
+D:\cSharp\netcoreCase\面向对象object11类的静态成员计算两个数的和\obj\Debug\netcoreapp3.1\面向对象object11类的静态成员计算两个数的和.pdb
+D:\cSharp\netcoreCase\面向对象object11类的静态成员计算两个数的和\obj\Debug\netcoreapp3.1\面向对象object11类的静态成员计算两个数的和.genruntimeconfig.cache

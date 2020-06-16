@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "面向对象object14创建对象输出商品名称/1.0.0": {
+        "runtime": {
+          "面向对象object14创建对象输出商品名称.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "面向对象object14创建对象输出商品名称/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+D:\cSharp\netcoreCase\面向对象object15曹操败走华容道\bin\Debug\netcoreapp3.1\面向对象object15曹操败走华容道.exe
+D:\cSharp\netcoreCase\面向对象object15曹操败走华容道\bin\Debug\netcoreapp3.1\面向对象object15曹操败走华容道.deps.json
+D:\cSharp\netcoreCase\面向对象object15曹操败走华容道\bin\Debug\netcoreapp3.1\面向对象object15曹操败走华容道.runtimeconfig.json
+D:\cSharp\netcoreCase\面向对象object15曹操败走华容道\bin\Debug\netcoreapp3.1\面向对象object15曹操败走华容道.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\面向对象object15曹操败走华容道\bin\Debug\netcoreapp3.1\面向对象object15曹操败走华容道.dll
+D:\cSharp\netcoreCase\面向对象object15曹操败走华容道\bin\Debug\netcoreapp3.1\面向对象object15曹操败走华容道.pdb
+D:\cSharp\netcoreCase\面向对象object15曹操败走华容道\obj\Debug\netcoreapp3.1\面向对象object15曹操败走华容道.csprojAssemblyReference.cache
+D:\cSharp\netcoreCase\面向对象object15曹操败走华容道\obj\Debug\netcoreapp3.1\面向对象object15曹操败走华容道.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\面向对象object15曹操败走华容道\obj\Debug\netcoreapp3.1\面向对象object15曹操败走华容道.AssemblyInfo.cs
+D:\cSharp\netcoreCase\面向对象object15曹操败走华容道\obj\Debug\netcoreapp3.1\面向对象object15曹操败走华容道.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\面向对象object15曹操败走华容道\obj\Debug\netcoreapp3.1\面向对象object15曹操败走华容道.dll
+D:\cSharp\netcoreCase\面向对象object15曹操败走华容道\obj\Debug\netcoreapp3.1\面向对象object15曹操败走华容道.pdb
+D:\cSharp\netcoreCase\面向对象object15曹操败走华容道\obj\Debug\netcoreapp3.1\面向对象object15曹操败走华容道.genruntimeconfig.cache

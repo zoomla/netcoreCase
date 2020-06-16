@@ -1,0 +1,13 @@
+D:\cSharp\netcoreCase\面向对象object12类的静态成员往池中注水\obj\Debug\netcoreapp3.1\面向对象object12类的静态成员往池中注水.csprojAssemblyReference.cache
+D:\cSharp\netcoreCase\面向对象object12类的静态成员往池中注水\obj\Debug\netcoreapp3.1\面向对象object12类的静态成员往池中注水.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\面向对象object12类的静态成员往池中注水\obj\Debug\netcoreapp3.1\面向对象object12类的静态成员往池中注水.AssemblyInfo.cs
+D:\cSharp\netcoreCase\面向对象object12类的静态成员往池中注水\obj\Debug\netcoreapp3.1\面向对象object12类的静态成员往池中注水.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\面向对象object12类的静态成员往池中注水\bin\Debug\netcoreapp3.1\面向对象object12类的静态成员往池中注水.exe
+D:\cSharp\netcoreCase\面向对象object12类的静态成员往池中注水\bin\Debug\netcoreapp3.1\面向对象object12类的静态成员往池中注水.deps.json
+D:\cSharp\netcoreCase\面向对象object12类的静态成员往池中注水\bin\Debug\netcoreapp3.1\面向对象object12类的静态成员往池中注水.runtimeconfig.json
+D:\cSharp\netcoreCase\面向对象object12类的静态成员往池中注水\bin\Debug\netcoreapp3.1\面向对象object12类的静态成员往池中注水.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\面向对象object12类的静态成员往池中注水\bin\Debug\netcoreapp3.1\面向对象object12类的静态成员往池中注水.dll
+D:\cSharp\netcoreCase\面向对象object12类的静态成员往池中注水\bin\Debug\netcoreapp3.1\面向对象object12类的静态成员往池中注水.pdb
+D:\cSharp\netcoreCase\面向对象object12类的静态成员往池中注水\obj\Debug\netcoreapp3.1\面向对象object12类的静态成员往池中注水.dll
+D:\cSharp\netcoreCase\面向对象object12类的静态成员往池中注水\obj\Debug\netcoreapp3.1\面向对象object12类的静态成员往池中注水.pdb
+D:\cSharp\netcoreCase\面向对象object12类的静态成员往池中注水\obj\Debug\netcoreapp3.1\面向对象object12类的静态成员往池中注水.genruntimeconfig.cache
