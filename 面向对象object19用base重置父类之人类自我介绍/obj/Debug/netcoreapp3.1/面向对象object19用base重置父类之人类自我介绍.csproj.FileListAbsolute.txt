@@ -1,0 +1,13 @@
+D:\cSharp\netcoreCase\面向对象object19用base重置父类之人类自我介绍\obj\Debug\netcoreapp3.1\面向对象object19用base重置父类之人类自我介绍.csprojAssemblyReference.cache
+D:\cSharp\netcoreCase\面向对象object19用base重置父类之人类自我介绍\obj\Debug\netcoreapp3.1\面向对象object19用base重置父类之人类自我介绍.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\面向对象object19用base重置父类之人类自我介绍\obj\Debug\netcoreapp3.1\面向对象object19用base重置父类之人类自我介绍.AssemblyInfo.cs
+D:\cSharp\netcoreCase\面向对象object19用base重置父类之人类自我介绍\obj\Debug\netcoreapp3.1\面向对象object19用base重置父类之人类自我介绍.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\面向对象object19用base重置父类之人类自我介绍\bin\Debug\netcoreapp3.1\面向对象object19用base重置父类之人类自我介绍.exe
+D:\cSharp\netcoreCase\面向对象object19用base重置父类之人类自我介绍\bin\Debug\netcoreapp3.1\面向对象object19用base重置父类之人类自我介绍.deps.json
+D:\cSharp\netcoreCase\面向对象object19用base重置父类之人类自我介绍\bin\Debug\netcoreapp3.1\面向对象object19用base重置父类之人类自我介绍.runtimeconfig.json
+D:\cSharp\netcoreCase\面向对象object19用base重置父类之人类自我介绍\bin\Debug\netcoreapp3.1\面向对象object19用base重置父类之人类自我介绍.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\面向对象object19用base重置父类之人类自我介绍\bin\Debug\netcoreapp3.1\面向对象object19用base重置父类之人类自我介绍.dll
+D:\cSharp\netcoreCase\面向对象object19用base重置父类之人类自我介绍\bin\Debug\netcoreapp3.1\面向对象object19用base重置父类之人类自我介绍.pdb
+D:\cSharp\netcoreCase\面向对象object19用base重置父类之人类自我介绍\obj\Debug\netcoreapp3.1\面向对象object19用base重置父类之人类自我介绍.dll
+D:\cSharp\netcoreCase\面向对象object19用base重置父类之人类自我介绍\obj\Debug\netcoreapp3.1\面向对象object19用base重置父类之人类自我介绍.pdb
+D:\cSharp\netcoreCase\面向对象object19用base重置父类之人类自我介绍\obj\Debug\netcoreapp3.1\面向对象object19用base重置父类之人类自我介绍.genruntimeconfig.cache

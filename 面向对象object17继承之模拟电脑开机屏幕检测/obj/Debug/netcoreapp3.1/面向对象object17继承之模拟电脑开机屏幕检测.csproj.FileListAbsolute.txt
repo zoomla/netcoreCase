@@ -1,0 +1,12 @@
+D:\cSharp\netcoreCase\面向对象object17继承之模拟电脑开机屏幕检测\obj\Debug\netcoreapp3.1\面向对象object17继承之模拟电脑开机屏幕检测.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\面向对象object17继承之模拟电脑开机屏幕检测\obj\Debug\netcoreapp3.1\面向对象object17继承之模拟电脑开机屏幕检测.AssemblyInfo.cs
+D:\cSharp\netcoreCase\面向对象object17继承之模拟电脑开机屏幕检测\obj\Debug\netcoreapp3.1\面向对象object17继承之模拟电脑开机屏幕检测.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\面向对象object17继承之模拟电脑开机屏幕检测\bin\Debug\netcoreapp3.1\面向对象object17继承之模拟电脑开机屏幕检测.exe
+D:\cSharp\netcoreCase\面向对象object17继承之模拟电脑开机屏幕检测\bin\Debug\netcoreapp3.1\面向对象object17继承之模拟电脑开机屏幕检测.deps.json
+D:\cSharp\netcoreCase\面向对象object17继承之模拟电脑开机屏幕检测\bin\Debug\netcoreapp3.1\面向对象object17继承之模拟电脑开机屏幕检测.runtimeconfig.json
+D:\cSharp\netcoreCase\面向对象object17继承之模拟电脑开机屏幕检测\bin\Debug\netcoreapp3.1\面向对象object17继承之模拟电脑开机屏幕检测.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\面向对象object17继承之模拟电脑开机屏幕检测\bin\Debug\netcoreapp3.1\面向对象object17继承之模拟电脑开机屏幕检测.dll
+D:\cSharp\netcoreCase\面向对象object17继承之模拟电脑开机屏幕检测\bin\Debug\netcoreapp3.1\面向对象object17继承之模拟电脑开机屏幕检测.pdb
+D:\cSharp\netcoreCase\面向对象object17继承之模拟电脑开机屏幕检测\obj\Debug\netcoreapp3.1\面向对象object17继承之模拟电脑开机屏幕检测.dll
+D:\cSharp\netcoreCase\面向对象object17继承之模拟电脑开机屏幕检测\obj\Debug\netcoreapp3.1\面向对象object17继承之模拟电脑开机屏幕检测.pdb
+D:\cSharp\netcoreCase\面向对象object17继承之模拟电脑开机屏幕检测\obj\Debug\netcoreapp3.1\面向对象object17继承之模拟电脑开机屏幕检测.genruntimeconfig.cache

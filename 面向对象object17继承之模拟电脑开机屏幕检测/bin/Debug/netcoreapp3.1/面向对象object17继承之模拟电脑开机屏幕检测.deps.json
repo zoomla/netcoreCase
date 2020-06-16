@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "面向对象object17继承之模拟电脑开机屏幕检测/1.0.0": {
+        "runtime": {
+          "面向对象object17继承之模拟电脑开机屏幕检测.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "面向对象object17继承之模拟电脑开机屏幕检测/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

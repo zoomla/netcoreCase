@@ -1,0 +1,13 @@
+D:\cSharp\netcoreCase\面向对象object18用base重载父类之电脑与平板关系\bin\Debug\netcoreapp3.1\面向对象object18用base重载父类之电脑与平板关系.exe
+D:\cSharp\netcoreCase\面向对象object18用base重载父类之电脑与平板关系\bin\Debug\netcoreapp3.1\面向对象object18用base重载父类之电脑与平板关系.deps.json
+D:\cSharp\netcoreCase\面向对象object18用base重载父类之电脑与平板关系\bin\Debug\netcoreapp3.1\面向对象object18用base重载父类之电脑与平板关系.runtimeconfig.json
+D:\cSharp\netcoreCase\面向对象object18用base重载父类之电脑与平板关系\bin\Debug\netcoreapp3.1\面向对象object18用base重载父类之电脑与平板关系.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\面向对象object18用base重载父类之电脑与平板关系\bin\Debug\netcoreapp3.1\面向对象object18用base重载父类之电脑与平板关系.dll
+D:\cSharp\netcoreCase\面向对象object18用base重载父类之电脑与平板关系\bin\Debug\netcoreapp3.1\面向对象object18用base重载父类之电脑与平板关系.pdb
+D:\cSharp\netcoreCase\面向对象object18用base重载父类之电脑与平板关系\obj\Debug\netcoreapp3.1\面向对象object18用base重载父类之电脑与平板关系.csprojAssemblyReference.cache
+D:\cSharp\netcoreCase\面向对象object18用base重载父类之电脑与平板关系\obj\Debug\netcoreapp3.1\面向对象object18用base重载父类之电脑与平板关系.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\面向对象object18用base重载父类之电脑与平板关系\obj\Debug\netcoreapp3.1\面向对象object18用base重载父类之电脑与平板关系.AssemblyInfo.cs
+D:\cSharp\netcoreCase\面向对象object18用base重载父类之电脑与平板关系\obj\Debug\netcoreapp3.1\面向对象object18用base重载父类之电脑与平板关系.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\面向对象object18用base重载父类之电脑与平板关系\obj\Debug\netcoreapp3.1\面向对象object18用base重载父类之电脑与平板关系.dll
+D:\cSharp\netcoreCase\面向对象object18用base重载父类之电脑与平板关系\obj\Debug\netcoreapp3.1\面向对象object18用base重载父类之电脑与平板关系.pdb
+D:\cSharp\netcoreCase\面向对象object18用base重载父类之电脑与平板关系\obj\Debug\netcoreapp3.1\面向对象object18用base重载父类之电脑与平板关系.genruntimeconfig.cache

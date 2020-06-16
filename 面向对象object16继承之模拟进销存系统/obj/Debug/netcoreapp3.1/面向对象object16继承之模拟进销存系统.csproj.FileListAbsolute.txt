@@ -1,0 +1,13 @@
+D:\cSharp\netcoreCase\面向对象object16继承之模拟进销存系统\obj\Debug\netcoreapp3.1\面向对象object16继承之模拟进销存系统.csprojAssemblyReference.cache
+D:\cSharp\netcoreCase\面向对象object16继承之模拟进销存系统\obj\Debug\netcoreapp3.1\面向对象object16继承之模拟进销存系统.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\面向对象object16继承之模拟进销存系统\obj\Debug\netcoreapp3.1\面向对象object16继承之模拟进销存系统.AssemblyInfo.cs
+D:\cSharp\netcoreCase\面向对象object16继承之模拟进销存系统\obj\Debug\netcoreapp3.1\面向对象object16继承之模拟进销存系统.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\面向对象object16继承之模拟进销存系统\bin\Debug\netcoreapp3.1\面向对象object16继承之模拟进销存系统.exe
+D:\cSharp\netcoreCase\面向对象object16继承之模拟进销存系统\bin\Debug\netcoreapp3.1\面向对象object16继承之模拟进销存系统.deps.json
+D:\cSharp\netcoreCase\面向对象object16继承之模拟进销存系统\bin\Debug\netcoreapp3.1\面向对象object16继承之模拟进销存系统.runtimeconfig.json
+D:\cSharp\netcoreCase\面向对象object16继承之模拟进销存系统\bin\Debug\netcoreapp3.1\面向对象object16继承之模拟进销存系统.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\面向对象object16继承之模拟进销存系统\bin\Debug\netcoreapp3.1\面向对象object16继承之模拟进销存系统.dll
+D:\cSharp\netcoreCase\面向对象object16继承之模拟进销存系统\bin\Debug\netcoreapp3.1\面向对象object16继承之模拟进销存系统.pdb
+D:\cSharp\netcoreCase\面向对象object16继承之模拟进销存系统\obj\Debug\netcoreapp3.1\面向对象object16继承之模拟进销存系统.dll
+D:\cSharp\netcoreCase\面向对象object16继承之模拟进销存系统\obj\Debug\netcoreapp3.1\面向对象object16继承之模拟进销存系统.pdb
+D:\cSharp\netcoreCase\面向对象object16继承之模拟进销存系统\obj\Debug\netcoreapp3.1\面向对象object16继承之模拟进销存系统.genruntimeconfig.cache
