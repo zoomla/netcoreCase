@@ -1,0 +1,12 @@
+D:\cSharp\netcoreCase\面向对象object27接口interface中美说话\obj\Debug\netcoreapp3.1\面向对象object27接口interface中美说话.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\面向对象object27接口interface中美说话\obj\Debug\netcoreapp3.1\面向对象object27接口interface中美说话.AssemblyInfo.cs
+D:\cSharp\netcoreCase\面向对象object27接口interface中美说话\obj\Debug\netcoreapp3.1\面向对象object27接口interface中美说话.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\面向对象object27接口interface中美说话\bin\Debug\netcoreapp3.1\面向对象object27接口interface中美说话.exe
+D:\cSharp\netcoreCase\面向对象object27接口interface中美说话\bin\Debug\netcoreapp3.1\面向对象object27接口interface中美说话.deps.json
+D:\cSharp\netcoreCase\面向对象object27接口interface中美说话\bin\Debug\netcoreapp3.1\面向对象object27接口interface中美说话.runtimeconfig.json
+D:\cSharp\netcoreCase\面向对象object27接口interface中美说话\bin\Debug\netcoreapp3.1\面向对象object27接口interface中美说话.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\面向对象object27接口interface中美说话\bin\Debug\netcoreapp3.1\面向对象object27接口interface中美说话.dll
+D:\cSharp\netcoreCase\面向对象object27接口interface中美说话\bin\Debug\netcoreapp3.1\面向对象object27接口interface中美说话.pdb
+D:\cSharp\netcoreCase\面向对象object27接口interface中美说话\obj\Debug\netcoreapp3.1\面向对象object27接口interface中美说话.dll
+D:\cSharp\netcoreCase\面向对象object27接口interface中美说话\obj\Debug\netcoreapp3.1\面向对象object27接口interface中美说话.pdb
+D:\cSharp\netcoreCase\面向对象object27接口interface中美说话\obj\Debug\netcoreapp3.1\面向对象object27接口interface中美说话.genruntimeconfig.cache

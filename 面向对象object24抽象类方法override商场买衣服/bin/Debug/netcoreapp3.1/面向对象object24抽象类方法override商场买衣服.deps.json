@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "面向对象object24抽象类方法override商场买衣服/1.0.0": {
+        "runtime": {
+          "面向对象object24抽象类方法override商场买衣服.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "面向对象object24抽象类方法override商场买衣服/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\cSharp\netcoreCase\面向对象object25抽象类方法abstract进货与销售信息\bin\Debug\netcoreapp3.1\面向对象object25抽象类方法abstract进货与销售信息.exe
+D:\cSharp\netcoreCase\面向对象object25抽象类方法abstract进货与销售信息\bin\Debug\netcoreapp3.1\面向对象object25抽象类方法abstract进货与销售信息.deps.json
+D:\cSharp\netcoreCase\面向对象object25抽象类方法abstract进货与销售信息\bin\Debug\netcoreapp3.1\面向对象object25抽象类方法abstract进货与销售信息.runtimeconfig.json
+D:\cSharp\netcoreCase\面向对象object25抽象类方法abstract进货与销售信息\bin\Debug\netcoreapp3.1\面向对象object25抽象类方法abstract进货与销售信息.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\面向对象object25抽象类方法abstract进货与销售信息\bin\Debug\netcoreapp3.1\面向对象object25抽象类方法abstract进货与销售信息.dll
+D:\cSharp\netcoreCase\面向对象object25抽象类方法abstract进货与销售信息\bin\Debug\netcoreapp3.1\面向对象object25抽象类方法abstract进货与销售信息.pdb
+D:\cSharp\netcoreCase\面向对象object25抽象类方法abstract进货与销售信息\obj\Debug\netcoreapp3.1\面向对象object25抽象类方法abstract进货与销售信息.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\面向对象object25抽象类方法abstract进货与销售信息\obj\Debug\netcoreapp3.1\面向对象object25抽象类方法abstract进货与销售信息.AssemblyInfo.cs
+D:\cSharp\netcoreCase\面向对象object25抽象类方法abstract进货与销售信息\obj\Debug\netcoreapp3.1\面向对象object25抽象类方法abstract进货与销售信息.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\面向对象object25抽象类方法abstract进货与销售信息\obj\Debug\netcoreapp3.1\面向对象object25抽象类方法abstract进货与销售信息.dll
+D:\cSharp\netcoreCase\面向对象object25抽象类方法abstract进货与销售信息\obj\Debug\netcoreapp3.1\面向对象object25抽象类方法abstract进货与销售信息.pdb
+D:\cSharp\netcoreCase\面向对象object25抽象类方法abstract进货与销售信息\obj\Debug\netcoreapp3.1\面向对象object25抽象类方法abstract进货与销售信息.genruntimeconfig.cache

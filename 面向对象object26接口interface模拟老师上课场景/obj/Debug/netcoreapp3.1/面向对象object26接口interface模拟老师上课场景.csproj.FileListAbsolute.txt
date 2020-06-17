@@ -1,0 +1,13 @@
+D:\cSharp\netcoreCase\面向对象object26接口interface模拟老师上课场景\obj\Debug\netcoreapp3.1\面向对象object26接口interface模拟老师上课场景.csprojAssemblyReference.cache
+D:\cSharp\netcoreCase\面向对象object26接口interface模拟老师上课场景\obj\Debug\netcoreapp3.1\面向对象object26接口interface模拟老师上课场景.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\面向对象object26接口interface模拟老师上课场景\obj\Debug\netcoreapp3.1\面向对象object26接口interface模拟老师上课场景.AssemblyInfo.cs
+D:\cSharp\netcoreCase\面向对象object26接口interface模拟老师上课场景\obj\Debug\netcoreapp3.1\面向对象object26接口interface模拟老师上课场景.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\面向对象object26接口interface模拟老师上课场景\bin\Debug\netcoreapp3.1\面向对象object26接口interface模拟老师上课场景.exe
+D:\cSharp\netcoreCase\面向对象object26接口interface模拟老师上课场景\bin\Debug\netcoreapp3.1\面向对象object26接口interface模拟老师上课场景.deps.json
+D:\cSharp\netcoreCase\面向对象object26接口interface模拟老师上课场景\bin\Debug\netcoreapp3.1\面向对象object26接口interface模拟老师上课场景.runtimeconfig.json
+D:\cSharp\netcoreCase\面向对象object26接口interface模拟老师上课场景\bin\Debug\netcoreapp3.1\面向对象object26接口interface模拟老师上课场景.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\面向对象object26接口interface模拟老师上课场景\bin\Debug\netcoreapp3.1\面向对象object26接口interface模拟老师上课场景.dll
+D:\cSharp\netcoreCase\面向对象object26接口interface模拟老师上课场景\bin\Debug\netcoreapp3.1\面向对象object26接口interface模拟老师上课场景.pdb
+D:\cSharp\netcoreCase\面向对象object26接口interface模拟老师上课场景\obj\Debug\netcoreapp3.1\面向对象object26接口interface模拟老师上课场景.dll
+D:\cSharp\netcoreCase\面向对象object26接口interface模拟老师上课场景\obj\Debug\netcoreapp3.1\面向对象object26接口interface模拟老师上课场景.pdb
+D:\cSharp\netcoreCase\面向对象object26接口interface模拟老师上课场景\obj\Debug\netcoreapp3.1\面向对象object26接口interface模拟老师上课场景.genruntimeconfig.cache

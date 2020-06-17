@@ -85,7 +85,25 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象object17继承�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象object18用base重载父类之电脑与平板关系", "面向对象object18用base重载父类之电脑与平板关系\面向对象object18用base重载父类之电脑与平板关系.csproj", "{E1A93AEC-8160-46A7-A6C0-0EE84D482FB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象object19用base重置父类之人类自我介绍", "面向对象object19用base重置父类之人类自我介绍\面向对象object19用base重置父类之人类自我介绍.csproj", "{F8B2FBDF-3DEA-4B17-93FF-1CA5012B25B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "面向对象object19用base重置父类之人类自我介绍", "面向对象object19用base重置父类之人类自我介绍\面向对象object19用base重置父类之人类自我介绍.csproj", "{F8B2FBDF-3DEA-4B17-93FF-1CA5012B25B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象object20用base重置父类之博士介绍", "面向对象object20用base重置父类之博士介绍\面向对象object20用base重置父类之博士介绍.csproj", "{6ECBFBF4-6D45-4F56-9B4A-D6C0A8EFA106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象object21虚方法virtual交通工具衍生火车和汽车不同的形态", "面向对象object21虚方法virtual交通工具衍生火车和汽车不同的形态\面向对象object21虚方法virtual交通工具衍生火车和汽车不同的形态.csproj", "{10CEE5C6-B4EE-4D76-BE32-9D70C450B6A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象object22虚方法virtual中美说话方式", "面向对象object22虚方法virtual中美说话方式\面向对象object22虚方法virtual中美说话方式.csproj", "{BBFBA9F6-1D56-460A-9841-AA942810880E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象object23虚方法virtual电脑看图不同", "面向对象object23虚方法virtual电脑看图不同\面向对象object23虚方法virtual电脑看图不同.csproj", "{5D559489-2B77-43DB-B695-C94A90D20CBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象object24抽象类方法override商场买衣服", "面向对象object24抽象类方法override商场买衣服\面向对象object24抽象类方法override商场买衣服.csproj", "{DD3ABC0A-C548-49D3-ADA6-FB36BEF87B6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象object25抽象类方法abstract进货与销售信息", "面向对象object25抽象类方法abstract进货与销售信息\面向对象object25抽象类方法abstract进货与销售信息.csproj", "{0FA2542F-9AFF-498C-8D57-FF69C9A0EB3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象object26接口interface模拟老师上课场景", "面向对象object26接口interface模拟老师上课场景\面向对象object26接口interface模拟老师上课场景.csproj", "{09E68247-2629-456B-A6CF-F6D5A351C555}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象object27接口interface中美说话", "面向对象object27接口interface中美说话\面向对象object27接口interface中美说话.csproj", "{41BD36C8-D548-4280-9AC7-AA85E6324FCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象object28接口interface进销存核算", "面向对象object28接口interface进销存核算\面向对象object28接口interface进销存核算.csproj", "{C836665B-B2C3-40C0-98DF-24071DB6AFE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -261,6 +279,42 @@ Global
 		{F8B2FBDF-3DEA-4B17-93FF-1CA5012B25B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8B2FBDF-3DEA-4B17-93FF-1CA5012B25B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8B2FBDF-3DEA-4B17-93FF-1CA5012B25B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ECBFBF4-6D45-4F56-9B4A-D6C0A8EFA106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ECBFBF4-6D45-4F56-9B4A-D6C0A8EFA106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ECBFBF4-6D45-4F56-9B4A-D6C0A8EFA106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ECBFBF4-6D45-4F56-9B4A-D6C0A8EFA106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10CEE5C6-B4EE-4D76-BE32-9D70C450B6A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10CEE5C6-B4EE-4D76-BE32-9D70C450B6A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10CEE5C6-B4EE-4D76-BE32-9D70C450B6A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10CEE5C6-B4EE-4D76-BE32-9D70C450B6A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBFBA9F6-1D56-460A-9841-AA942810880E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFBA9F6-1D56-460A-9841-AA942810880E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFBA9F6-1D56-460A-9841-AA942810880E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFBA9F6-1D56-460A-9841-AA942810880E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D559489-2B77-43DB-B695-C94A90D20CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D559489-2B77-43DB-B695-C94A90D20CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D559489-2B77-43DB-B695-C94A90D20CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D559489-2B77-43DB-B695-C94A90D20CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD3ABC0A-C548-49D3-ADA6-FB36BEF87B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3ABC0A-C548-49D3-ADA6-FB36BEF87B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD3ABC0A-C548-49D3-ADA6-FB36BEF87B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3ABC0A-C548-49D3-ADA6-FB36BEF87B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FA2542F-9AFF-498C-8D57-FF69C9A0EB3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA2542F-9AFF-498C-8D57-FF69C9A0EB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA2542F-9AFF-498C-8D57-FF69C9A0EB3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA2542F-9AFF-498C-8D57-FF69C9A0EB3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09E68247-2629-456B-A6CF-F6D5A351C555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E68247-2629-456B-A6CF-F6D5A351C555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E68247-2629-456B-A6CF-F6D5A351C555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E68247-2629-456B-A6CF-F6D5A351C555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41BD36C8-D548-4280-9AC7-AA85E6324FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41BD36C8-D548-4280-9AC7-AA85E6324FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41BD36C8-D548-4280-9AC7-AA85E6324FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41BD36C8-D548-4280-9AC7-AA85E6324FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C836665B-B2C3-40C0-98DF-24071DB6AFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C836665B-B2C3-40C0-98DF-24071DB6AFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C836665B-B2C3-40C0-98DF-24071DB6AFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C836665B-B2C3-40C0-98DF-24071DB6AFE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

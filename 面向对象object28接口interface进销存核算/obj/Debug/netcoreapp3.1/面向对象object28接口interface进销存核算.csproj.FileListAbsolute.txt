@@ -1,0 +1,13 @@
+D:\cSharp\netcoreCase\面向对象object28接口interface进销存核算\bin\Debug\netcoreapp3.1\面向对象object28接口interface进销存核算.exe
+D:\cSharp\netcoreCase\面向对象object28接口interface进销存核算\bin\Debug\netcoreapp3.1\面向对象object28接口interface进销存核算.deps.json
+D:\cSharp\netcoreCase\面向对象object28接口interface进销存核算\bin\Debug\netcoreapp3.1\面向对象object28接口interface进销存核算.runtimeconfig.json
+D:\cSharp\netcoreCase\面向对象object28接口interface进销存核算\bin\Debug\netcoreapp3.1\面向对象object28接口interface进销存核算.runtimeconfig.dev.json
+D:\cSharp\netcoreCase\面向对象object28接口interface进销存核算\bin\Debug\netcoreapp3.1\面向对象object28接口interface进销存核算.dll
+D:\cSharp\netcoreCase\面向对象object28接口interface进销存核算\bin\Debug\netcoreapp3.1\面向对象object28接口interface进销存核算.pdb
+D:\cSharp\netcoreCase\面向对象object28接口interface进销存核算\obj\Debug\netcoreapp3.1\面向对象object28接口interface进销存核算.csprojAssemblyReference.cache
+D:\cSharp\netcoreCase\面向对象object28接口interface进销存核算\obj\Debug\netcoreapp3.1\面向对象object28接口interface进销存核算.AssemblyInfoInputs.cache
+D:\cSharp\netcoreCase\面向对象object28接口interface进销存核算\obj\Debug\netcoreapp3.1\面向对象object28接口interface进销存核算.AssemblyInfo.cs
+D:\cSharp\netcoreCase\面向对象object28接口interface进销存核算\obj\Debug\netcoreapp3.1\面向对象object28接口interface进销存核算.csproj.CoreCompileInputs.cache
+D:\cSharp\netcoreCase\面向对象object28接口interface进销存核算\obj\Debug\netcoreapp3.1\面向对象object28接口interface进销存核算.dll
+D:\cSharp\netcoreCase\面向对象object28接口interface进销存核算\obj\Debug\netcoreapp3.1\面向对象object28接口interface进销存核算.pdb
+D:\cSharp\netcoreCase\面向对象object28接口interface进销存核算\obj\Debug\netcoreapp3.1\面向对象object28接口interface进销存核算.genruntimeconfig.cache
